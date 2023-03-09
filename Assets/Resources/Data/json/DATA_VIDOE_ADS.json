@@ -1,0 +1,81 @@
+{
+	"videoads": [
+		{
+			"index": 0,
+			"key": "eVideoFree",
+			"Desc": "상점 무료보석",
+			"vidoe_id_AOS": "ca-app-pub-2900651421644134/6337833902",
+			"video_id_IOS": "ca-app-pub-2900651421644134/4075466795"
+		},
+		{
+			"index": 1,
+			"key": "eVideoManagerTest",
+			"Desc": "성격테스트 돌아가기",
+			"vidoe_id_AOS": "ca-app-pub-2900651421644134/6322356186",
+			"video_id_IOS": "ca-app-pub-2900651421644134/3883895108"
+		},
+		{
+			"index": 2,
+			"key": "eVideoManagerSkill",
+			"Desc": "매니저스킬 변경",
+			"vidoe_id_AOS": "ca-app-pub-2900651421644134/9878457817",
+			"video_id_IOS": "ca-app-pub-2900651421644134/3041037981"
+		},
+		{
+			"index": 3,
+			"key": "eVideoFairyTime",
+			"Desc": "요정의 아이템 일정진행속도 2배",
+			"vidoe_id_AOS": "ca-app-pub-2900651421644134/1808396100",
+			"video_id_IOS": "ca-app-pub-2900651421644134/9319220467"
+		},
+		{
+			"index": 4,
+			"key": "eVideoFairyEvent",
+			"Desc": "요정의 아이템 돌발이벤트 10%상승",
+			"vidoe_id_AOS": "ca-app-pub-2900651421644134/7990661070",
+			"video_id_IOS": "ca-app-pub-2900651421644134/1344812931"
+		},
+		{
+			"index": 5,
+			"key": "eVideoFairyGold",
+			"Desc": "요정의 아이템 주간보상 2배",
+			"vidoe_id_AOS": "ca-app-pub-2900651421644134/6610609728",
+			"video_id_IOS": "ca-app-pub-2900651421644134/9454403095"
+		},
+		{
+			"index": 6,
+			"key": "eVideoHPRecovery",
+			"Desc": "스케줄 중 체력20미만일 경우",
+			"vidoe_id_AOS": "ca-app-pub-2900651421644134/8920599369",
+			"video_id_IOS": "ca-app-pub-2900651421644134/1672115995"
+		},
+		{
+			"index": 7,
+			"key": "eVideoDreamEvent",
+			"Desc": "꿈이벤트 다시뽑기 ",
+			"vidoe_id_AOS": "ca-app-pub-2900651421644134/8729027673",
+			"video_id_IOS": "ca-app-pub-2900651421644134/2465149452"
+		},
+		{
+			"index": 8,
+			"key": "eVideoWeeklyGoldDouble",
+			"Desc": "주간보상 2배",
+			"vidoe_id_AOS": "ca-app-pub-2900651421644134/5911292647",
+			"video_id_IOS": "ca-app-pub-2900651421644134/7525904444"
+		},
+		{
+			"index": 9,
+			"key": "eVideoRandomStateUp",
+			"Desc": "랜덤 스탯 1개 +3~5 상승",
+			"vidoe_id_AOS": "ca-app-pub-2900651421644134/4406639289",
+			"video_id_IOS": "ca-app-pub-2900651421644134/3028595545"
+		},
+		{
+			"index": 10,
+			"key": "eVideoStateFixStart",
+			"Desc": "보유스텟 10%유지 다시시작",
+			"vidoe_id_AOS": "ca-app-pub-2900651421644134/5528149268",
+			"video_id_IOS": "ca-app-pub-2900651421644134/3586659438"
+		}
+	]
+}

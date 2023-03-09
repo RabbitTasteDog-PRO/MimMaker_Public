@@ -1,0 +1,76 @@
+{
+	"active": [
+		{
+			"active": "eActBrod",
+			"schedule_0": "eActBrod_0",
+			"schedule_1": "eActBrod_1",
+			"schedule_2": "eActBrod_2",
+			"schedule_3": "eActBrod_3",
+			"schedule_img": "eActBrod"
+		},
+		{
+			"active": "eActTraining",
+			"schedule_0": "eActTraining_0",
+			"schedule_1": "eActTraining_1",
+			"schedule_2": "eActTraining_2",
+			"schedule_3": "eActTraining_3",
+			"schedule_img": "eActTraining"
+		},
+		{
+			"active": "eActStreet",
+			"schedule_0": "eActStreet_0",
+			"schedule_1": "eActStreet_1",
+			"schedule_2": "eActStreet_2",
+			"schedule_3": "eActStreet_3",
+			"schedule_img": "eActStreet"
+		},
+		{
+			"active": "eActMonitor",
+			"schedule_0": "eActMonitor_0",
+			"schedule_1": "eActMonitor_1",
+			"schedule_2": "eActMonitor_2",
+			"schedule_3": "eActMonitor_3",
+			"schedule_img": "eActMonitor"
+		},
+		{
+			"active": "eActSns",
+			"schedule_0": "eActSns_0",
+			"schedule_1": "eActSns_1",
+			"schedule_2": "eActSns_2",
+			"schedule_3": "eActSns_3",
+			"schedule_img": "eActSns"
+		},
+		{
+			"active": "eActManage",
+			"schedule_0": "eActManage_0",
+			"schedule_1": "eActManage_1",
+			"schedule_2": "eActManage_2",
+			"schedule_3": "eActManage_3",
+			"schedule_img": "eActManage"
+		},
+		{
+			"active": "eActService",
+			"schedule_0": "eActService_0",
+			"schedule_1": "eActService_1",
+			"schedule_2": "eActService_2",
+			"schedule_3": "eActService_3",
+			"schedule_img": "eActService"
+		},
+		{
+			"active": "eActRest",
+			"schedule_0": "eActRest_0",
+			"schedule_1": "eActRest_1",
+			"schedule_2": "eActRest_2",
+			"schedule_3": "eActRest_3",
+			"schedule_img": "eActRest"
+		},
+		{
+			"active": "eEvent",
+			"schedule_0": "eEvent",
+			"schedule_1": "NONE",
+			"schedule_2": "NONE",
+			"schedule_3": "NONE",
+			"schedule_img": "NONE"
+		}
+	]
+}

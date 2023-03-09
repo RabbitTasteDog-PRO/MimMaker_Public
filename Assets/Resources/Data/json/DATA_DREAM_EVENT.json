@@ -1,0 +1,324 @@
+{
+	"dream": [
+		{
+			"key": "eD_STATE",
+			"grade": "C",
+			"desc": "연예인 스텟",
+			"skillType": "eRandom",
+			"prob": 20,
+			"prob_ori": 20,
+			"value": 1,
+			"image": "NULL"
+		},
+		{
+			"key": "eD_HP",
+			"grade": "C",
+			"desc": "연예인 체력",
+			"skillType": "eHP",
+			"prob": 35,
+			"prob_ori": 15,
+			"value": 1,
+			"image": "CARD_HART"
+		},
+		{
+			"key": "eD_HP",
+			"grade": "C",
+			"desc": "연예인 체력",
+			"skillType": "eHP",
+			"prob": 45,
+			"prob_ori": 10,
+			"value": 2,
+			"image": "CARD_HART"
+		},
+		{
+			"key": "eD_AWARENESS",
+			"grade": "C",
+			"desc": "연예인 인지도",
+			"skillType": "eAWARENESS",
+			"prob": 60,
+			"prob_ori": 15,
+			"value": 1,
+			"image": "CARD_AWARENESS"
+		},
+		{
+			"key": "eD_AWARENESS",
+			"grade": "C",
+			"desc": "연예인 인지도",
+			"skillType": "eAWARENESS",
+			"prob": 70,
+			"prob_ori": 10,
+			"value": 2,
+			"image": "CARD_AWARENESS"
+		},
+		{
+			"key": "eD_GOLD",
+			"grade": "C",
+			"desc": "매니저 추가수익",
+			"skillType": "eGOLD",
+			"prob": 85,
+			"prob_ori": 15,
+			"value": 1000,
+			"image": "CARD_GOLD"
+		},
+		{
+			"key": "eD_GOLD",
+			"grade": "C",
+			"desc": "매니저 추가수익",
+			"skillType": "eGOLD",
+			"prob": 95,
+			"prob_ori": 10,
+			"value": 3000,
+			"image": "CARD_GOLD"
+		},
+		{
+			"key": "eD_DIA",
+			"grade": "C",
+			"desc": "보석",
+			"skillType": "eDIA",
+			"prob": 100,
+			"prob_ori": 5,
+			"value": 1,
+			"image": "CARD_DIA"
+		},
+		{
+			"key": "eD_STATE",
+			"grade": "B",
+			"desc": "연예인 스텟",
+			"skillType": "eRandom",
+			"prob": 20,
+			"prob_ori": 20,
+			"value": 2,
+			"image": "NULL"
+		},
+		{
+			"key": "eD_HP",
+			"grade": "B",
+			"desc": "연예인 체력",
+			"skillType": "eHP",
+			"prob": 35,
+			"prob_ori": 15,
+			"value": 3,
+			"image": "CARD_HART"
+		},
+		{
+			"key": "eD_HP",
+			"grade": "B",
+			"desc": "연예인 체력",
+			"skillType": "eHP",
+			"prob": 45,
+			"prob_ori": 10,
+			"value": 4,
+			"image": "CARD_HART"
+		},
+		{
+			"key": "eD_AWARENESS",
+			"grade": "B",
+			"desc": "연예인 인지도",
+			"skillType": "eAWARENESS",
+			"prob": 60,
+			"prob_ori": 15,
+			"value": 3,
+			"image": "CARD_AWARENESS"
+		},
+		{
+			"key": "eD_AWARENESS",
+			"grade": "B",
+			"desc": "연예인 인지도",
+			"skillType": "eAWARENESS",
+			"prob": 70,
+			"prob_ori": 10,
+			"value": 4,
+			"image": "CARD_AWARENESS"
+		},
+		{
+			"key": "eD_GOLD",
+			"grade": "B",
+			"desc": "매니저 추가수익",
+			"skillType": "eGOLD",
+			"prob": 85,
+			"prob_ori": 15,
+			"value": 5000,
+			"image": "CARD_GOLD"
+		},
+		{
+			"key": "eD_GOLD",
+			"grade": "B",
+			"desc": "매니저 추가수익",
+			"skillType": "eGOLD",
+			"prob": 95,
+			"prob_ori": 10,
+			"value": 10000,
+			"image": "CARD_GOLD"
+		},
+		{
+			"key": "eD_DIA",
+			"grade": "B",
+			"desc": "보석",
+			"skillType": "eDIA",
+			"prob": 100,
+			"prob_ori": 5,
+			"value": 2,
+			"image": "CARD_DIA"
+		},
+		{
+			"key": "eD_STATE",
+			"grade": "A",
+			"desc": "연예인 스텟",
+			"skillType": "eRandom",
+			"prob": 20,
+			"prob_ori": 20,
+			"value": 3,
+			"image": "NULL"
+		},
+		{
+			"key": "eD_HP",
+			"grade": "A",
+			"desc": "연예인 체력",
+			"skillType": "eHP",
+			"prob": 35,
+			"prob_ori": 15,
+			"value": 5,
+			"image": "CARD_HART"
+		},
+		{
+			"key": "eD_HP",
+			"grade": "A",
+			"desc": "연예인 체력",
+			"skillType": "eHP",
+			"prob": 45,
+			"prob_ori": 10,
+			"value": 6,
+			"image": "CARD_HART"
+		},
+		{
+			"key": "eD_AWARENESS",
+			"grade": "A",
+			"desc": "연예인 인지도",
+			"skillType": "eAWARENESS",
+			"prob": 60,
+			"prob_ori": 15,
+			"value": 5,
+			"image": "CARD_AWARENESS"
+		},
+		{
+			"key": "eD_AWARENESS",
+			"grade": "A",
+			"desc": "연예인 인지도",
+			"skillType": "eAWARENESS",
+			"prob": 70,
+			"prob_ori": 10,
+			"value": 6,
+			"image": "CARD_AWARENESS"
+		},
+		{
+			"key": "eD_GOLD",
+			"grade": "A",
+			"desc": "매니저 추가수익",
+			"skillType": "eGOLD",
+			"prob": 85,
+			"prob_ori": 15,
+			"value": 30000,
+			"image": "CARD_GOLD"
+		},
+		{
+			"key": "eD_GOLD",
+			"grade": "A",
+			"desc": "매니저 추가수익",
+			"skillType": "eGOLD",
+			"prob": 95,
+			"prob_ori": 10,
+			"value": 50000,
+			"image": "CARD_GOLD"
+		},
+		{
+			"key": "eD_DIA",
+			"grade": "A",
+			"desc": "보석",
+			"skillType": "eDIA",
+			"prob": 100,
+			"prob_ori": 5,
+			"value": 3,
+			"image": "CARD_DIA"
+		},
+		{
+			"key": "eD_STATE",
+			"grade": "S",
+			"desc": "연예인 스텟",
+			"skillType": "eRandom",
+			"prob": 20,
+			"prob_ori": 20,
+			"value": 4,
+			"image": "NULL"
+		},
+		{
+			"key": "eD_HP",
+			"grade": "S",
+			"desc": "연예인 체력",
+			"skillType": "eHP",
+			"prob": 35,
+			"prob_ori": 15,
+			"value": 7,
+			"image": "CARD_HART"
+		},
+		{
+			"key": "eD_HP",
+			"grade": "S",
+			"desc": "연예인 체력",
+			"skillType": "eHP",
+			"prob": 45,
+			"prob_ori": 10,
+			"value": 8,
+			"image": "CARD_HART"
+		},
+		{
+			"key": "eD_AWARENESS",
+			"grade": "S",
+			"desc": "연예인 인지도",
+			"skillType": "eAWARENESS",
+			"prob": 60,
+			"prob_ori": 15,
+			"value": 7,
+			"image": "CARD_AWARENESS"
+		},
+		{
+			"key": "eD_AWARENESS",
+			"grade": "S",
+			"desc": "연예인 인지도",
+			"skillType": "eAWARENESS",
+			"prob": 70,
+			"prob_ori": 10,
+			"value": 8,
+			"image": "CARD_AWARENESS"
+		},
+		{
+			"key": "eD_GOLD",
+			"grade": "S",
+			"desc": "매니저 추가수익",
+			"skillType": "eGOLD",
+			"prob": 85,
+			"prob_ori": 15,
+			"value": 70000,
+			"image": "CARD_GOLD"
+		},
+		{
+			"key": "eD_GOLD",
+			"grade": "S",
+			"desc": "매니저 추가수익",
+			"skillType": "eGOLD",
+			"prob": 95,
+			"prob_ori": 10,
+			"value": 100000,
+			"image": "CARD_GOLD"
+		},
+		{
+			"key": "eD_DIA",
+			"grade": "S",
+			"desc": "보석",
+			"skillType": "eDIA",
+			"prob": 100,
+			"prob_ori": 5,
+			"value": 4,
+			"image": "CARD_DIA"
+		}
+	]
+}

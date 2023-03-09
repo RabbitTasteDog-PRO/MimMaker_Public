@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ArrayOfDialogTable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<xmlSudenEvent>
+		<index>0</index>
+		<event_title>팬과의 만남</event_title>
+		<bgm>브금</bgm>
+		<sfx>효과음</sfx>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>이름</name>
+		<message>대사</message>
+		<choice_0>선택지_1</choice_0>
+		<choice_1>선택지_2</choice_1>
+		<choice_2>선택지_3</choice_2>
+		<stateKey_0>선택지 키값_0</stateKey_0>
+		<stateValue_0>선택지 가감치_0</stateValue_0>
+		<stateKey_1>선택지 키값_1</stateKey_1>
+		<stateValue_1>선택지 가감치_1</stateValue_1>
+		<stateKey_2>선택지 키값_2</stateKey_2>
+		<stateValue_2>선택지 가감치_2</stateValue_2>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>1</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>팬</name>
+		<ch_img>BEAUTY_FAN</ch_img>
+		<message>어?! 
+혹시 밈 언니 아니에요?</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>2</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>밈</name>
+		<ch_img>MiM</ch_img>
+		<message>응? 절 아세요?</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>3</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>팬</name>
+		<ch_img>BEAUTY_FAN</ch_img>
+		<message>꺄~ 대박! 저 팬이에요!!
+거리에서 공연하시던 거 봤어요!</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>4</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>밈</name>
+		<ch_img>MiM</ch_img>
+		<message>와~ 그래요? 반가워요!</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>5</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>팬</name>
+		<ch_img>BEAUTY_FAN</ch_img>
+		<message>언니! 초면에 죄송한데..
+부탁 하나만 해도 될까요?</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>6</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>밈</name>
+		<ch_img>MiM</ch_img>
+		<message>그럼요~ 뭔데요?</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>7</index>
+		<type>1001</type>
+		<tag>0</tag>
+		<ch_img>BEAUTY_FAN</ch_img>
+		<choice_0>이것도 인연인데 저랑 같이 밥먹어요!</choice_0>
+		<choice_1>저랑 같이 사진 좀..
+그리고 사인도 좀..</choice_1>
+		<stateKey_0>eAWARENESS,ePERSONALITY</stateKey_0>
+		<stateValue_0>1,1</stateValue_0>
+		<stateKey_1>eAWARENESS</stateKey_1>
+		<stateValue_1>2</stateValue_1>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>8</index>
+		<type>1004</type>
+		<tag>1</tag>
+		<message>함께 식사를 하며 수다를 떨다 보니 
+어느새 절친이 되었다.</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>9</index>
+		<type>1000</type>
+		<tag>1</tag>
+		<name>밈</name>
+		<ch_img>MiM</ch_img>
+		<message>밥먹었으니 카페 가자!
+카페 다음엔 노래방! 다음엔 다시 카페!</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>10</index>
+		<type>1002</type>
+		<tag>1</tag>
+		<message>CHOICE END</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>11</index>
+		<type>1004</type>
+		<tag>2</tag>
+		<message>팬이 함께 찍은 사진과 사인을 자신의
+SNS에 올리자, 밈의 팔로워가 급격히
+늘어나기 시작했다.
+알고보니 SNS에서 엄청 유명한
+스타였다고 한다.</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>12</index>
+		<type>1000</type>
+		<tag>2</tag>
+		<name>팬</name>
+		<ch_img>BEAUTY_FAN</ch_img>
+		<message>여러분~
+우리 언니 잘부탁해용~♡</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>13</index>
+		<type>1002</type>
+		<tag>2</tag>
+		<message>CHOICE END</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>14</index>
+		<type>1003</type>
+		<tag>0</tag>
+		<message>EVENT_END</message>
+	</xmlSudenEvent>
+</ArrayOfDialogTable>

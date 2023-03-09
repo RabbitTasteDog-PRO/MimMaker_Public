@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ArrayOfDialogTable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<xmlSudenEvent>
+		<index>0</index>
+		<event_title>편집자를 구합니다</event_title>
+		<bgm>브금</bgm>
+		<sfx>효과음</sfx>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>이름</name>
+		<message>대사</message>
+		<choice_0>선택지_1</choice_0>
+		<choice_1>선택지_2</choice_1>
+		<choice_2>선택지_3</choice_2>
+		<stateKey_0>선택지 키값_0</stateKey_0>
+		<stateValue_0>선택지 가감치_0</stateValue_0>
+		<stateKey_1>선택지 키값_1</stateKey_1>
+		<stateValue_1>선택지 가감치_1</stateValue_1>
+		<stateKey_2>선택지 키값_2</stateKey_2>
+		<stateValue_2>선택지 가감치_2</stateValue_2>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>1</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>매니저</name>
+		<ch_img>MANAGER</ch_img>
+		<message>밈, 할 말이 있어요.</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>2</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>밈</name>
+		<ch_img>MiM</ch_img>
+		<message>갑자기 무섭게 왜 그래요?
+사직서는 안돼요!</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>3</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>매니저</name>
+		<ch_img>MANAGER</ch_img>
+		<message>..? 사직서라뇨.. 
+영상 편집자가 필요하다고 하려 했어요.</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>4</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>밈</name>
+		<ch_img>MiM</ch_img>
+		<message>아?! 하하..
+편집자요? 구하면 되죠~</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>5</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>매니저</name>
+		<ch_img>MANAGER</ch_img>
+		<message>경력 많은 편집자와 영상 편집이 가능한
+팬 중 누가 괜찮을까요?</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>6</index>
+		<type>1001</type>
+		<tag>0</tag>
+		<ch_img>MiM</ch_img>
+		<choice_0>아무래도 경력자가 
+좋지 않을까요?</choice_0>
+		<choice_1>팬이요 팬! 
+우리 팬들이 최고죠!</choice_1>
+		<stateKey_0>eGOLD,eAWARENESS</stateKey_0>
+		<stateValue_0>-2000,2</stateValue_0>
+		<stateKey_1>eAWARENESS,eCHARACTER</stateKey_1>
+		<stateValue_1>1,1</stateValue_1>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>7</index>
+		<type>1004</type>
+		<tag>1</tag>
+		<message>경력 많은 영상 편집자를 구한 밈.
+화려한 효과와 깔끔한 영상미로 코퀄리티 영상을
+만들 수 있게 되었다.</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>8</index>
+		<type>1004</type>
+		<tag>1</tag>
+		<message>하지만 그만큼 통장도
+깔끔해지고 있다…</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>9</index>
+		<type>1000</type>
+		<tag>1</tag>
+		<name>밈</name>
+		<ch_img>MiM</ch_img>
+		<message>돈은 좀 들지만… 역시 능력자는 다르네요~!</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>10</index>
+		<type>1002</type>
+		<tag>1</tag>
+		<message>CHOICE END</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>11</index>
+		<type>1004</type>
+		<tag>2</tag>
+		<message>영상 편집이 가능한 팬을 고용한 밈.
+조금 서툴지만 팬심으로 만든 영상은 밈의 매력을 
+150% 이상으로 보여주고 있었다.</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>12</index>
+		<type>1000</type>
+		<tag>2</tag>
+		<name>밈</name>
+		<ch_img>MiM</ch_img>
+		<message>우와~~ 제가 엄청 예쁘게 나왔네요!
+무슨 필터를 쓰신거지?! 공유좀 해주세요!</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>13</index>
+		<type>1002</type>
+		<tag>2</tag>
+		<message>CHOICE END</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>14</index>
+		<type>1003</type>
+		<tag>0</tag>
+		<message>EVENT_END</message>
+	</xmlSudenEvent>
+</ArrayOfDialogTable>

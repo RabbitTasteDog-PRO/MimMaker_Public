@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ArrayOfDialogTable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<xmlSudenEvent>
+		<index>0</index>
+		<event_title>눈물 연기</event_title>
+		<bgm>브금</bgm>
+		<sfx>효과음</sfx>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>이름</name>
+		<ch_img>이미지</ch_img>
+		<message>대사</message>
+		<choice_0>선택지_1</choice_0>
+		<choice_1>선택지_2</choice_1>
+		<choice_2>선택지_3</choice_2>
+		<stateKey_0>선택지 키값_0</stateKey_0>
+		<stateValue_0>선택지 가감치_0</stateValue_0>
+		<stateKey_1>선택지 키값_1</stateKey_1>
+		<stateValue_1>선택지 가감치_1</stateValue_1>
+		<stateKey_2>선택지 키값_2</stateKey_2>
+		<stateValue_2>선택지 가감치_2</stateValue_2>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>1</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>밈</name>
+		<ch_img>MiM</ch_img>
+		<message>하아..</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>2</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>동료 연습생</name>
+		<ch_img>TRAINEE</ch_img>
+		<message>밈, 무슨 고민 있어?</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>3</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>밈</name>
+		<ch_img>MiM</ch_img>
+		<message>여배우라면 눈물 연기가 필수인 거 알지?</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>4</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>동료 연습생</name>
+		<ch_img>TRAINEE</ch_img>
+		<message>응, 물론이지!</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>5</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>밈</name>
+		<ch_img>MiM</ch_img>
+		<message>눈물 연기를 연습하는데, 잘 안돼서..</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>6</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>동료 연습생</name>
+		<ch_img>TRAINEE</ch_img>
+		<message>나한테 좋은 방법이 있지!</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>7</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>밈</name>
+		<ch_img>MiM</ch_img>
+		<message>좋은 방법? 뭔데 뭔데??</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>8</index>
+		<type>1001</type>
+		<tag>0</tag>
+		<ch_img>TRAINEE</ch_img>
+		<choice_0>다른 배우들은 슬픈 생각을 한다고 했어!</choice_0>
+		<choice_1>인공 눈물을 사용하는 게 가장 빠르지</choice_1>
+		<choice_2>양파를 눈에 비벼봐! 고통은 잠깐이야!</choice_2>
+		<stateKey_0>eACTING</stateKey_0>
+		<stateValue_0>-1</stateValue_0>
+		<stateKey_1>eACTING</stateKey_1>
+		<stateValue_1>1</stateValue_1>
+		<stateKey_2>eACTING</stateKey_2>
+		<stateValue_2>2</stateValue_2>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>9</index>
+		<type>1004</type>
+		<tag>1</tag>
+		<message>아무리 슬픈 생각을 하려고 해도 
+웃긴 생각만 드는 현실..
+결국 눈물 연기는 포기했다.</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>10</index>
+		<type>1000</type>
+		<tag>1</tag>
+		<name>밈</name>
+		<ch_img>MiM</ch_img>
+		<message>하.. 슬픈 영화를 생각하고 싶은데
+자꾸 개그 프로그램만 생각나네</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>11</index>
+		<type>1002</type>
+		<tag>1</tag>
+		<message>CHOICE END</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>12</index>
+		<type>1004</type>
+		<tag>2</tag>
+		<message>눈물 연기에는 성공했지만, 
+다소 인위적인 효과로 인해
+'자본주의 눈물'이라는 별명을 얻었다.</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>13</index>
+		<type>1000</type>
+		<tag>2</tag>
+		<name>동료 연습생</name>
+		<ch_img>TRAINEE</ch_img>
+		<message>음.. 눈물 연기이긴 한데.. 
+너무 인위적이긴 하다. 풉…</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>14</index>
+		<type>1002</type>
+		<tag>2</tag>
+		<message>CHOICE END</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>15</index>
+		<type>1004</type>
+		<tag>3</tag>
+		<message>잔뜩 충혈된 눈으로 
+한이 맺힌 연기까지 가능해졌다.</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>16</index>
+		<type>1004</type>
+		<tag>3</tag>
+		<message>연기의 천재가 나왔다며 
+여기저기에서 러브콜을 받는다.</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>17</index>
+		<type>1000</type>
+		<tag>3</tag>
+		<name>밈</name>
+		<ch_img>MiM</ch_img>
+		<message>좋긴 한데… 눈이 너무 따가워요…!!! 흐잉</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>18</index>
+		<type>1002</type>
+		<tag>3</tag>
+		<message>CHOICE END</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>19</index>
+		<type>1003</type>
+		<tag>0</tag>
+		<message>EVENT_END</message>
+	</xmlSudenEvent>
+</ArrayOfDialogTable>

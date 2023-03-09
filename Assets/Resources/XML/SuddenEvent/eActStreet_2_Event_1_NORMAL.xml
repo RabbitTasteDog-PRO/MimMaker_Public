@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ArrayOfDialogTable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<xmlSudenEvent>
+		<index>0</index>
+		<event_title>오늘은…</event_title>
+		<bgm>브금</bgm>
+		<sfx>효과음</sfx>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>이름</name>
+		<message>대사</message>
+		<choice_0>선택지_1</choice_0>
+		<choice_1>선택지_2</choice_1>
+		<choice_2>선택지_3</choice_2>
+		<stateKey_0>선택지 키값_0</stateKey_0>
+		<stateValue_0>선택지 가감치_0</stateValue_0>
+		<stateKey_1>선택지 키값_1</stateKey_1>
+		<stateValue_1>선택지 가감치_1</stateValue_1>
+		<stateKey_2>선택지 키값_2</stateKey_2>
+		<stateValue_2>선택지 가감치_2</stateValue_2>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>1</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>밈</name>
+		<ch_img>MiM</ch_img>
+		<message>여러분~ 제 목표가 뭔지 아세요?</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>2</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>관객들</name>
+		<ch_img>AUDIENCE_STREET</ch_img>
+		<message>…</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>3</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>밈</name>
+		<ch_img>MiM</ch_img>
+		<message>하하.. 너무 어려웠나?대답이 없으시네~</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>4</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>관객들</name>
+		<ch_img>AUDIENCE_STREET</ch_img>
+		<message>…</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>5</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>밈</name>
+		<ch_img>MiM</ch_img>
+		<message>제 목표는 매일 다른 장르의
+댄스 공연을 하는 거예요!</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>6</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>관객들</name>
+		<ch_img>AUDIENCE_STREET</ch_img>
+		<message>…</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>7</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>밈</name>
+		<ch_img>MiM</ch_img>
+		<message>오늘은 어떤 장르의
+댄스가 보고싶으세요?</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>8</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>관객들</name>
+		<ch_img>AUDIENCE_STREET</ch_img>
+		<message>…</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>9</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>매니저</name>
+		<ch_img>MANAGER</ch_img>
+		<message>밈.. 그냥 제가 대답할게요..</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>10</index>
+		<type>1001</type>
+		<tag>0</tag>
+		<ch_img>MANAGER</ch_img>
+		<choice_0>아이돌 댄스가 좋겠어요</choice_0>
+		<choice_1>현대 무용 어때요? 
+아직 안 해봤잖아요!</choice_1>
+		<choice_2>스포츠 댄스 어때요?</choice_2>
+		<stateKey_0>eFLEX</stateKey_0>
+		<stateValue_0>1</stateValue_0>
+		<stateKey_1>eKNOW</stateKey_1>
+		<stateValue_1>1</stateValue_1>
+		<stateKey_2>eCHARACTER</stateKey_2>
+		<stateValue_2>1</stateValue_2>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>11</index>
+		<type>1004</type>
+		<tag>1</tag>
+		<message>최신 인기 아이돌 댄스를 추게된 밈.
+주로 젊은 연령대의 관객들에게
+큰 호응을 받았다.</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>12</index>
+		<type>1000</type>
+		<tag>1</tag>
+		<name>밈</name>
+		<ch_img>MiM</ch_img>
+		<message>역시 연습실에서의 내 노력은 헛되지 않았어!</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>13</index>
+		<type>1002</type>
+		<tag>1</tag>
+		<message>CHOICE END</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>14</index>
+		<type>1004</type>
+		<tag>2</tag>
+		<message>방송 댄스를 주로 접하는 젊은 층에게 현대
+무용의 매력을 전파하는 계기가 되었고,
+현대무용 홍보 모델로 선발된다</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>15</index>
+		<type>1000</type>
+		<tag>2</tag>
+		<name>밈</name>
+		<ch_img>MiM</ch_img>
+		<message>바닥을 너무 쓸고 다녔나.
+바지가 엄청 더러워 졌네요. 하하..
+엄마에게 혼나겠다..</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>16</index>
+		<type>1002</type>
+		<tag>2</tag>
+		<message>CHOICE END</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>17</index>
+		<type>1004</type>
+		<tag>3</tag>
+		<message>관객들에게 기본 스텝을 알려준 뒤, 
+함께 스포츠 댄스를 추기 시작한다.</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>18</index>
+		<type>1004</type>
+		<tag>3</tag>
+		<message>어느 새 관객들끼리도 함께 추기 시작했고,
+거리의 명물이 된다.</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>19</index>
+		<type>1000</type>
+		<tag>3</tag>
+		<name>밈</name>
+		<ch_img>MiM</ch_img>
+		<message>다 같이 추니까 엄청 신난데요? 헤헤~</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>20</index>
+		<type>1002</type>
+		<tag>3</tag>
+		<message>CHOICE END</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>21</index>
+		<type>1003</type>
+		<tag>0</tag>
+		<message>EVENT_END</message>
+	</xmlSudenEvent>
+</ArrayOfDialogTable>

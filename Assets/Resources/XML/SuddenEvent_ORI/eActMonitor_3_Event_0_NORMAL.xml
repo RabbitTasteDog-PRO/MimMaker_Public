@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ArrayOfDialogTable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<xmlSudenEvent>
+		<index>0</index>
+		<event_title>하트캣 미안해</event_title>
+		<bgm>브금</bgm>
+		<sfx>효과음</sfx>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>이름</name>
+		<message>대사</message>
+		<choice_0>선택지_1</choice_0>
+		<choice_1>선택지_2</choice_1>
+		<choice_2>선택지_3</choice_2>
+		<stateKey_0>선택지 키값_0</stateKey_0>
+		<stateValue_0>선택지 가감치_0</stateValue_0>
+		<stateKey_1>선택지 키값_1</stateKey_1>
+		<stateValue_1>선택지 가감치_1</stateValue_1>
+		<stateKey_2>선택지 키값_2</stateKey_2>
+		<stateValue_2>선택지 가감치_2</stateValue_2>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>1</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>하트캣</name>
+		<ch_img>HEARTCAT</ch_img>
+		<message>밈~</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>2</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>밈</name>
+		<ch_img>MiM</ch_img>
+		<message>응? 하트캣? 왔어?</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>3</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>하트캣</name>
+		<ch_img>HEARTCAT</ch_img>
+		<message>응. 뭐 보고 있어?</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>4</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>밈</name>
+		<ch_img>MiM</ch_img>
+		<message>동물 관련 프로그램 보고있어!</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>5</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>하트캣</name>
+		<ch_img>HEARTCAT</ch_img>
+		<message>그렇구나~</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>6</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>밈</name>
+		<ch_img>MiM</ch_img>
+		<message>그러고 보니.. 하트캣..!</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>7</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>하트캣</name>
+		<ch_img>HEARTCAT</ch_img>
+		<message>…?</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>8</index>
+		<type>1001</type>
+		<tag>0</tag>
+		<ch_img>MiM</ch_img>
+		<choice_0>하트캣! 나랑 동물목장 출연해볼래?</choice_0>
+		<choice_1>(띠띠띠-) 여보세요? 동물목장이죠?
+여기 말하는 고양이가..</choice_1>
+		<stateKey_0>eAWARENESS</stateKey_0>
+		<stateValue_0>1</stateValue_0>
+		<stateKey_1>eCHARACTER,ePERSONALITY</stateKey_1>
+		<stateValue_1>2,-1</stateValue_1>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>9</index>
+		<type>1004</type>
+		<tag>1</tag>
+		<message>하트캣과 함께 동물목장에 출연한 밈. 
+하지만, 점점 높아지는 하트캣의 인기에
+비해 자신은 거의 존재감이 없었다.</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>10</index>
+		<type>1004</type>
+		<tag>1</tag>
+		<message>결국 밈은 인기를 얻은 하트캣 때문에
+배만 아파졌다.</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>11</index>
+		<type>1000</type>
+		<tag>1</tag>
+		<name>하트캣</name>
+		<ch_img>HEARTCAT</ch_img>
+		<message>제가 이렇게 인기를 얻은 건 모두
+제 친구 밈 덕분입니다!</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>12</index>
+		<type>1002</type>
+		<tag>1</tag>
+		<message>CHOICE END</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>13</index>
+		<type>1004</type>
+		<tag>2</tag>
+		<message>친구를 팔아먹었다며 하트캣이 분노한다.
+밈은 하트캣의 분노를 그대로 받게 된다.</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>14</index>
+		<type>1000</type>
+		<tag>2</tag>
+		<name>밈</name>
+		<ch_img>MiM</ch_img>
+		<message>하트캣~ 내가 잘못했어 ㅠㅠ 그만 때려..</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>15</index>
+		<type>1002</type>
+		<tag>2</tag>
+		<message>CHOICE END</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>16</index>
+		<type>1003</type>
+		<tag>0</tag>
+		<message>EVENT_END</message>
+	</xmlSudenEvent>
+</ArrayOfDialogTable>

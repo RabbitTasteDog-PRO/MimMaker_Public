@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ArrayOfDialogTable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<xmlSudenEvent>
+		<index>0</index>
+		<event_title>동물 프로그램</event_title>
+		<bgm>브금</bgm>
+		<sfx>효과음</sfx>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>이름</name>
+		<message>대사</message>
+		<choice_0>선택지_1</choice_0>
+		<choice_1>선택지_2</choice_1>
+		<choice_2>선택지_3</choice_2>
+		<stateKey_0>선택지 키값_0</stateKey_0>
+		<stateValue_0>선택지 가감치_0</stateValue_0>
+		<stateKey_1>선택지 키값_1</stateKey_1>
+		<stateValue_1>선택지 가감치_1</stateValue_1>
+		<stateKey_2>선택지 키값_2</stateKey_2>
+		<stateValue_2>선택지 가감치_2</stateValue_2>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>1</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>매니저</name>
+		<ch_img>MANAGER</ch_img>
+		<message>밈, 동물 프로그램 보고 있어요?</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>2</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>밈</name>
+		<ch_img>MiM</ch_img>
+		<message>네, 다양한 프로그램을 모니터링해야 할 것 같아서요.</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>3</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>매니저</name>
+		<ch_img>MANAGER</ch_img>
+		<message>좋은 자세네요!
+오늘은 뭘 배웠어요?</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>4</index>
+		<type>1001</type>
+		<tag>0</tag>
+		<ch_img>MiM</ch_img>
+		<choice_0>움.. 고양이는 귀엽다?</choice_0>
+		<choice_1>세상에 똑똑한 강아지가 너무 많아요!</choice_1>
+		<choice_2>고.. 고양이 성대모사?</choice_2>
+		<stateKey_0>eHP</stateKey_0>
+		<stateValue_0>-1</stateValue_0>
+		<stateKey_1>eKNOW</stateKey_1>
+		<stateValue_1>1</stateValue_1>
+		<stateKey_2>eHUMOR</stateKey_2>
+		<stateValue_2>1</stateValue_2>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>5</index>
+		<type>1004</type>
+		<tag>1</tag>
+		<message>모니터링의 의미부터 태도까지 밈은
+매니저님에게 폭풍 잔소리를 듣게 된다.</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>6</index>
+		<type>1000</type>
+		<tag>1</tag>
+		<name>밈</name>
+		<ch_img>MiM</ch_img>
+		<message>잘못했어용… 앞으로 열심히 공부할게요..</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>7</index>
+		<type>1002</type>
+		<tag>1</tag>
+		<message>CHOICE END</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>8</index>
+		<type>1004</type>
+		<tag>2</tag>
+		<message>강아지보다 못하면 안 된다는 매니저님은
+밈에게 공부를 시키기로 한다.</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>9</index>
+		<type>1000</type>
+		<tag>2</tag>
+		<name>밈</name>
+		<ch_img>MiM</ch_img>
+		<message>매니저님..
+제가 아무리 바보같아도 강아지보다는…</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>10</index>
+		<type>1002</type>
+		<tag>2</tag>
+		<message>CHOICE END</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>11</index>
+		<type>1004</type>
+		<tag>3</tag>
+		<message>매니저님에게 성대모사를 보여주는 밈. 
+대충 넘기려다가 의외의 곳에서 재능을 찾게 된다.</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>12</index>
+		<type>1000</type>
+		<tag>3</tag>
+		<name>밈</name>
+		<ch_img>MiM</ch_img>
+		<message>야.. 야옹…야아옹~ 캬옹!!</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>13</index>
+		<type>1000</type>
+		<tag>3</tag>
+		<name>매니저</name>
+		<ch_img>MANAGER</ch_img>
+		<message>뭐야. 왜 이렇게 잘하는 건데요…</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>14</index>
+		<type>1002</type>
+		<tag>3</tag>
+		<message>CHOICE END</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>15</index>
+		<type>1003</type>
+		<tag>0</tag>
+		<message>EVENT_END</message>
+	</xmlSudenEvent>
+</ArrayOfDialogTable>

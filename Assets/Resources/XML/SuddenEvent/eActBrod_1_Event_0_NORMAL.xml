@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ArrayOfDialogTable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<xmlSudenEvent>
+		<index>0</index>
+		<event_title>위기를 기회로!</event_title>
+		<bgm>브금</bgm>
+		<sfx>효과음</sfx>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>이름</name>
+		<ch_img>이미지</ch_img>
+		<message>대사</message>
+		<choice_0>선택지_1</choice_0>
+		<choice_1>선택지_2</choice_1>
+		<choice_2>선택지_3</choice_2>
+		<stateKey_0>선택지 키값_0</stateKey_0>
+		<stateValue_0>선택지 가감치_0</stateValue_0>
+		<stateKey_1>선택지 키값_1</stateKey_1>
+		<stateValue_1>선택지 가감치_1</stateValue_1>
+		<stateKey_2>선택지 키값_2</stateKey_2>
+		<stateValue_2>선택지 가감치_2</stateValue_2>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>1</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>조연출</name>
+		<ch_img>AD</ch_img>
+		<message>큰일이네.. 큰일이야..</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>2</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>매니저</name>
+		<ch_img>MANAGAER</ch_img>
+		<message>조연출님 무슨 일 있으세요?</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>3</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>조연출</name>
+		<ch_img>AD</ch_img>
+		<message>엑스트라들이 단체로 연락 두절이라서요..</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>4</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>조연출</name>
+		<ch_img>AD</ch_img>
+		<message>스태프들이 임시로 들어가긴 했는데, 
+많이 부족하네요. 이를 어쩐담..</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>5</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>매니저</name>
+		<ch_img>MANAGAER</ch_img>
+		<message>그거 정말 큰일이네요..</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>6</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>밈</name>
+		<ch_img>MiM</ch_img>
+		<message>조연출님! 저에게 좋은 생각이 있어요!</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>7</index>
+		<type>1001</type>
+		<tag>0</tag>
+		<ch_img>MiM</ch_img>
+		<choice_0>제가 일인 다역. 
+멀티맨 역할을 해볼게요!</choice_0>
+		<choice_1>저도 엑스트라로 참여할게요!</choice_1>
+		<choice_2>저희 회사에 사람 많아요!
+제가 빨리 연락해 볼게요!</choice_2>
+		<stateKey_0>eAWARENESS,eACTING</stateKey_0>
+		<stateValue_0>2,1</stateValue_0>
+		<stateKey_1>eAWARENESS,ePERSONALITY</stateKey_1>
+		<stateValue_1>1,1</stateValue_1>
+		<stateKey_2>eAWARENESS,eKNOW</stateKey_2>
+		<stateValue_2>1,2</stateValue_2>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>8</index>
+		<type>1004</type>
+		<tag>1</tag>
+		<message>멀티맨으로 참여한 밈은
+당돌한 연기를 펼치며
+감초 역할을 톡톡히 해냈다.</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>9</index>
+		<type>1004</type>
+		<tag>1</tag>
+		<message>이후로 연극이 아닌 드라마에서도 
+멀티맨 열풍이 불기 시작했다.</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>10</index>
+		<type>1000</type>
+		<tag>1</tag>
+		<name>밈</name>
+		<ch_img>MiM</ch_img>
+		<message>이게 바로 밈 신드롬이랄까요? 헤헷!</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>11</index>
+		<type>1002</type>
+		<tag>1</tag>
+		<message>CHOICE END</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>12</index>
+		<type>1004</type>
+		<tag>2</tag>
+		<message>어려울 때 도움을 주었다며
+감독님과 스태프들에게
+감사의 인사를 받은 밈.</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>13</index>
+		<type>1004</type>
+		<tag>2</tag>
+		<message>향후에 좋은 배역으로 캐스팅하겠다며,
+감독님이 연락처를 가져갔다!</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>14</index>
+		<type>1000</type>
+		<tag>2</tag>
+		<name>밈</name>
+		<ch_img>MiM</ch_img>
+		<message>감독님 기왕이면 대사 한 줄이라도.. 헤헷</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>15</index>
+		<type>1002</type>
+		<tag>2</tag>
+		<message>CHOICE END</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>16</index>
+		<type>1004</type>
+		<tag>3</tag>
+		<message>쉬고 있는 연습생들을 불러 모아 
+엑스트라로 투입시킨 밈.</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>17</index>
+		<type>1004</type>
+		<tag>3</tag>
+		<message>촬영이 끝난 후,
+밈은 모든 스태프들에게
+희대의 지략가로 불리게 된다.</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>18</index>
+		<type>1000</type>
+		<tag>3</tag>
+		<name>밈</name>
+		<ch_img>MiM</ch_img>
+		<message>이게 바로 win-win 전략! 엣헴~</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>19</index>
+		<type>1002</type>
+		<tag>3</tag>
+		<message>CHOICE END</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>20</index>
+		<type>1003</type>
+		<tag>0</tag>
+		<message>EVENT_END</message>
+	</xmlSudenEvent>
+</ArrayOfDialogTable>

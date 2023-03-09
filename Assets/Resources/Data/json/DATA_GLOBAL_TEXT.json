@@ -1,0 +1,3945 @@
+{
+	"word": [
+		{
+			"key": "eHP",
+			"kr": "체력",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eGOLD",
+			"kr": "코인",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eGold",
+			"kr": "코인",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eAwareness",
+			"kr": "인지도",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eAWARENESS",
+			"kr": "인지도",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eFACE",
+			"kr": "외모",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eACTING",
+			"kr": "연기력",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eSINGING",
+			"kr": "가창력",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eHUMOR",
+			"kr": "유머감각",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eFLEX",
+			"kr": "유연성",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eKNOW",
+			"kr": "지식",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "ePERSONALITY",
+			"kr": "성품",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eCHARACTER",
+			"kr": "개성",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eActBrod",
+			"kr": "방송국견학",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eActTraining",
+			"kr": "트레이닝",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eActStreet",
+			"kr": "거리공연",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eActMonitor",
+			"kr": "모니터링",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eActSns",
+			"kr": "SNS",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eActManage",
+			"kr": "관리",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eActService",
+			"kr": "봉사활동",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eActRest",
+			"kr": "휴식",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eHP",
+			"kr": "체력",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eEvent",
+			"kr": "NONE",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eActBrod_0",
+			"kr": "예능\\n촬영장",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eActBrod_1",
+			"kr": "드라마\\n촬영장",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eActBrod_2",
+			"kr": "댄스\\n경연",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eActBrod_3",
+			"kr": "음악\\n프로",
+			"modify": "음악\\n프로",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eActTraining_0",
+			"kr": "보컬\\n연습",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eActTraining_1",
+			"kr": "댄스\\n연습",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eActTraining_2",
+			"kr": "연기\\n연습",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eActTraining_3",
+			"kr": "개인기\\n연습",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eActStreet_0",
+			"kr": "밴드\\n공연",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eActStreet_1",
+			"kr": "마술쇼",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eActStreet_2",
+			"kr": "댄스\\n공연",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eActStreet_3",
+			"kr": "토크\\n콘서트",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eActMonitor_0",
+			"kr": "연예\\n뉴스",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eActMonitor_1",
+			"kr": "드라마",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eActMonitor_2",
+			"kr": "라디오",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eActMonitor_3",
+			"kr": "동물\\n프로",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eActSns_0",
+			"kr": "트미터",
+			"modify": "트미터",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eActSns_1",
+			"kr": "별그램",
+			"modify": "별그램",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eActSns_2",
+			"kr": "톡톡",
+			"modify": "톡톡",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eActSns_3",
+			"kr": "핸즈북",
+			"modify": "핸즈북",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eActManage_0",
+			"kr": "피부과",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eActManage_1",
+			"kr": "마사지",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eActManage_2",
+			"kr": "명상",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eActManage_3",
+			"kr": "피트니스",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eActService_0",
+			"kr": "방과후\\n교실",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eActService_1",
+			"kr": "자선\\n콘서트",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eActService_2",
+			"kr": "환경\\n미화",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eActService_3",
+			"kr": "자선\\n바자회",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eActRest_0",
+			"kr": "휴식",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eActRest_1",
+			"kr": "휴식",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eActRest_2",
+			"kr": "휴식",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eActRest_3",
+			"kr": "휴식",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eActBrod_0_Text",
+			"kr": "예능촬영장",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eActBrod_1_Text",
+			"kr": "드라마촬영장",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eActBrod_2_Text",
+			"kr": "댄스경연",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eActBrod_3_Text",
+			"kr": "음악프로그램",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eActTraining_0_Text",
+			"kr": "보컬연습",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eActTraining_1_Text",
+			"kr": "댄스연습",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eActTraining_2_Text",
+			"kr": "연기연습",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eActTraining_3_Text",
+			"kr": "개인기연습",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eActStreet_0_Text",
+			"kr": "밴드공연",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eActStreet_1_Text",
+			"kr": "마술쇼",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eActStreet_2_Text",
+			"kr": "댄스공연",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eActStreet_3_Text",
+			"kr": "토크콘서트",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eActMonitor_0_Text",
+			"kr": "연예뉴스",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eActMonitor_1_Text",
+			"kr": "드라마",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eActMonitor_2_Text",
+			"kr": "라디오",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eActMonitor_3_Text",
+			"kr": "동물프로",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eActSns_0_Text",
+			"kr": "트위터",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eActSns_1_Text",
+			"kr": "인스타그램",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eActSns_2_Text",
+			"kr": "틱톡",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eActSns_3_Text",
+			"kr": "페이스북",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eActManage_0_Text",
+			"kr": "피부과",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eActManage_1_Text",
+			"kr": "마사지",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eActManage_2_Text",
+			"kr": "명상",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eActManage_3_Text",
+			"kr": "피트니스",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eActService_0_Text",
+			"kr": "방과후교실",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eActService_1_Text",
+			"kr": "자선콘서트",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eActService_2_Text",
+			"kr": "환경미화",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eActService_3_Text",
+			"kr": "자선바자회",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eActRest_0_Text",
+			"kr": "휴식",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eActRest_1_Text",
+			"kr": "자유행동1",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eActRest_2_Text",
+			"kr": "자유행동2",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eActRest_3_Text",
+			"kr": "자유행동3",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eAllStateMinus",
+			"kr": "모든스탯 -1",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eMonday",
+			"kr": "MON",
+			"modify": 0,
+			"en": "MON",
+			"tw": "MON"
+		},
+		{
+			"key": "eTuesday",
+			"kr": "TUE",
+			"modify": 0,
+			"en": "TUE",
+			"tw": "TUE"
+		},
+		{
+			"key": "eWednesday",
+			"kr": "WED",
+			"modify": 0,
+			"en": "WED",
+			"tw": "WED"
+		},
+		{
+			"key": "eThursday",
+			"kr": "THU",
+			"modify": 0,
+			"en": "THU",
+			"tw": "THU"
+		},
+		{
+			"key": "eFriday",
+			"kr": "FRI",
+			"modify": 0,
+			"en": "FRI",
+			"tw": "FRI"
+		},
+		{
+			"key": "eSaturday",
+			"kr": "SAT",
+			"modify": 0,
+			"en": "SAT",
+			"tw": "SAT"
+		},
+		{
+			"key": "eSunday",
+			"kr": "SUN",
+			"modify": 0,
+			"en": "SUN",
+			"tw": "SUN"
+		},
+		{
+			"key": "eMonday_0",
+			"kr": "MON",
+			"modify": 0,
+			"en": "MON",
+			"tw": "MON"
+		},
+		{
+			"key": "eTuesday_0",
+			"kr": "TUE",
+			"modify": 0,
+			"en": "TUE",
+			"tw": "TUE"
+		},
+		{
+			"key": "eWednesday_0",
+			"kr": "WED",
+			"modify": 0,
+			"en": "WED",
+			"tw": "WED"
+		},
+		{
+			"key": "eThursday_0",
+			"kr": "THU",
+			"modify": 0,
+			"en": "THU",
+			"tw": "THU"
+		},
+		{
+			"key": "eFriday_0",
+			"kr": "FRI",
+			"modify": 0,
+			"en": "FIR",
+			"tw": "FIR"
+		},
+		{
+			"key": "eSaturday_0",
+			"kr": "SAT",
+			"modify": 0,
+			"en": "STA",
+			"tw": "STA"
+		},
+		{
+			"key": "eSunday_0",
+			"kr": "SUN",
+			"modify": 0,
+			"en": "SUN",
+			"tw": "SUN"
+		},
+		{
+			"key": "eState",
+			"kr": "상태",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eSchedule",
+			"kr": "일정",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eSchedule_0",
+			"kr": "WEEK {0}",
+			"modify": 0,
+			"en": "WEEK {0}",
+			"tw": "WEEK {0}"
+		},
+		{
+			"key": "eResult",
+			"kr": "RESULT",
+			"modify": 0,
+			"en": "RESULT",
+			"tw": "RESULT"
+		},
+		{
+			"key": "eReward",
+			"kr": "REWARD",
+			"modify": 0,
+			"en": "REWARD",
+			"tw": "REWARD"
+		},
+		{
+			"key": "eMonitor",
+			"kr": "어떤 매체를 모니터링 할까?",
+			"modify": "이전 텍스트, 사용안함",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eStore",
+			"kr": "상점",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eConfirm",
+			"kr": "결정",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eCheck",
+			"kr": "확인",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eCancel",
+			"kr": "취소",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eBtnNext",
+			"kr": "다음",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eBtnPrev",
+			"kr": "이전",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eBtnResult",
+			"kr": "결과 보기",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eBtnVideoRetry",
+			"kr": "다시선택",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eBtnConfirmNext",
+			"kr": "넘어가기",
+			"modify": "꿈이벤트에서만 사용됨",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eBtnCardSelect",
+			"kr": "카드 뽑기",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eManagerEffect",
+			"kr": "매니저 효과 +{0}",
+			"modify": "로그시스템으로 대체됨, 사용안함",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eBonusEffect",
+			"kr": "보너스 +{0}",
+			"modify": "로그시스템으로 대체됨, 사용안함",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eManagerTestTitle",
+			"kr": "매니저 성격 테스트 {0}/{1}",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eNext",
+			"kr": "다음 날",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eRandomAll",
+			"kr": "전체 랜덤",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eCancelAll",
+			"kr": "모두 해제",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eReSchedule",
+			"kr": "다시 선택",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eQuickStart",
+			"kr": "빠른 진행",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eBack",
+			"kr": "돌아가기",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eStart",
+			"kr": "진행",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eScheduleTitle",
+			"kr": "일정확인",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eScheduleTitleSub",
+			"kr": "이대로 일정을 진행할까요?",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "ePERSOLANLITY_TYPE_A",
+			"kr": "이타적",
+			"modify": "매니저 데이터로 대체, 사용안함",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "ePERSOLANLITY_TYPE_B",
+			"kr": "개인적",
+			"modify": "매니저 데이터로 대체, 사용안함",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "ePERSOLANLITY_TYPE_C",
+			"kr": "효율 중심",
+			"modify": "매니저 데이터로 대체, 사용안함",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "ePERSOLANLITY_TYPE_D",
+			"kr": "관계 중심",
+			"modify": "매니저 데이터로 대체, 사용안함",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "ePERSOLANLITY_TYPE_E",
+			"kr": "외향적",
+			"modify": "매니저 데이터로 대체, 사용안함",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "ePERSOLANLITY_TYPE_F",
+			"kr": "내향적",
+			"modify": "매니저 데이터로 대체, 사용안함",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eMANAGER_A",
+			"kr": "매니저",
+			"modify": "매니저",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eMANAGER_B",
+			"kr": "매니저",
+			"modify": "매니저",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eMANAGER_C",
+			"kr": "매니저",
+			"modify": "매니저",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eMANAGER_D",
+			"kr": "매니저",
+			"modify": "매니저",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eMANAGER_E",
+			"kr": "매니저",
+			"modify": "매니저",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eMANAGER_F",
+			"kr": "매니저",
+			"modify": "매니저",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eSKILL_A",
+			"kr": "세심한 배려",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eSKILL_B",
+			"kr": "협상 전문가",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eSKILL_C",
+			"kr": "최적의 동선",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eSKILL_D",
+			"kr": "우수 영업원",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eSKILL_E",
+			"kr": "SNS 관리자",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eSKILL_F",
+			"kr": "재능 발굴",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eSKILL_F_A",
+			"kr": "뷰티계의 금손",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eSKILL_F_B",
+			"kr": "만능 연기 파트너",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eSKILL_F_C",
+			"kr": "절대음감",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eSKILL_F_D",
+			"kr": "유머의 기술",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eSKILL_F_E",
+			"kr": "댄싱머신",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eSKILL_F_F",
+			"kr": "박학다식",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eSKILL_F_G",
+			"kr": "봉사 전도사",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eSKILL_F_H",
+			"kr": "트랜드 세터",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eMANAGER_A_DESC",
+			"kr": "매니저 A 설명",
+			"modify": "초반기획시 매니저 설명이 있었으나 사용안함 ",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eMANAGER_B_DESC",
+			"kr": "매니저 B 설명",
+			"modify": "초반기획시 매니저 설명이 있었으나 사용안함 ",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eMANAGER_C_DESC",
+			"kr": "매니저 C 설명",
+			"modify": "초반기획시 매니저 설명이 있었으나 사용안함 ",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eMANAGER_D_DESC",
+			"kr": "매니저 D 설명",
+			"modify": "초반기획시 매니저 설명이 있었으나 사용안함 ",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eMANAGER_E_DESC",
+			"kr": "매니저 E 설명",
+			"modify": "초반기획시 매니저 설명이 있었으나 사용안함 ",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eMANAGER_F_DESC",
+			"kr": "매니저 F 설명",
+			"modify": "초반기획시 매니저 설명이 있었으나 사용안함 ",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eSKILL_A_INFO_0",
+			"kr": "작은 것 하나도 놓치지 않는 배려왕!",
+			"modify": "사소한 행동마저 배려가 묻어나는 배려왕!",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eSKILL_B_INFO_0",
+			"kr": "내 연봉을 지켜라, 연봉협상 전문가!",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eSKILL_C_INFO_0",
+			"kr": "바쁘다 바빠 현대사회! 동선관리의 신!",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eSKILL_D_INFO_0",
+			"kr": "세상 모두가 내 친구, 친화력 마스터!",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eSKILL_E_INFO_0",
+			"kr": "전문 마케터 안 부럽다, SNS 전문가!",
+			"modify": 0,
+			"en": 0,
+			"tw": 0
+		},
+		{
+			"key": "eSKILL_F_INFO_0",
+			"kr": "스탯 중심",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eSKILL_F_A_INFO_0",
+			"kr": "변신은 내게 맡겨줘~ 타고난 금손!",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eSKILL_F_B_INFO_0",
+			"kr": "모든 장르 가능! 최고의 연기파트너!",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eSKILL_F_C_INFO_0",
+			"kr": "사소한 실수 놓치지 않는 절대음감!",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eSKILL_F_D_INFO_0",
+			"kr": "유머도 기술! 당신은 분위기메이커!",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eSKILL_F_E_INFO_0",
+			"kr": "내 사전에 몸치란 없다, 거리의 댄서!",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eSKILL_F_F_INFO_0",
+			"kr": "세상에 쓸데 없는 지식은 없다!",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eSKILL_F_G_INFO_0",
+			"kr": "봉사의 기쁨을 모두와 나누는 전도사.",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eSKILL_F_H_INFO_0",
+			"kr": "패션, 문화… 내가바로 트렌드 세터!",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eSKILL_A_INFO_1",
+			"kr": "매니저의 배려로 체력소모를 줄여줍니다.",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eSKILL_B_INFO_1",
+			"kr": "일정 종료 시 얻는 수익이 증가합니다.",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eSKILL_C_INFO_1",
+			"kr": "빠른 움직임으로\\n일정 진행을 빠르게 합니다.",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eSKILL_D_INFO_1",
+			"kr": "넓은 인간 관계로\\n돌발 이벤트의 확률을 높여줍니다.",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eSKILL_E_INFO_1",
+			"kr": "밈의 SNS를 대신 관리해\\n인지도를 높여줍니다. ",
+			"modify": 0,
+			"en": 0,
+			"tw": 0
+		},
+		{
+			"key": "eSKILL_F_INFO_1",
+			"kr": "재능 발굴",
+			"modify": "텍스트는 사용하지 않으나 코드쪽에서 구분을 위해 사용함",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eSKILL_F_A_INFO_1",
+			"kr": "밈의 외모를 한층 더\\n빛나게 만들어줍니다.",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eSKILL_F_B_INFO_1",
+			"kr": "밈의 연기력을 한층 끌어올립니다. ",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eSKILL_F_C_INFO_1",
+			"kr": "밈의 가창력을 극대화 시킵니다.",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eSKILL_F_D_INFO_1",
+			"kr": "유머 기술을 전수해\\n밈의 센스를 높여줍니다. ",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eSKILL_F_E_INFO_1",
+			"kr": "맞춤형 댄스 강좌로\\n밈의 유연성을 키워줍니다.",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eSKILL_F_F_INFO_1",
+			"kr": "밈에게 각종 지식을 전수합니다.",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eSKILL_F_G_INFO_1",
+			"kr": "밈도 각종 봉사활동에 끌어들입니다.",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eSKILL_F_H_INFO_1",
+			"kr": "밈의 개성이 극대화됩니다. ",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eSKILL_A_INFO_VALUE_DESC",
+			"kr": "일정 완료 시 {0}% 확률로 체력 +{1}",
+			"modify": "일정 완료 시 {0}% 확률로 체력 +{1}",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eSKILL_B_INFO_VALUE_DESC",
+			"kr": "일정 완료 시 수익 +{0}%",
+			"modify": "일정 완료 시 수익 +{0}%",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eSKILL_C_INFO_VALUE_DESC",
+			"kr": "{0}% 확률로 일정 진행시간 -{1}초",
+			"modify": "{0}% 확률로 일정 진행시간 -{1}초",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eSKILL_D_INFO_VALUE_DESC",
+			"kr": "일정 진행 시 돌발이벤트 발생 확률 +{0}%",
+			"modify": "일정 진행 시 돌발이벤트 발생 확률 +{0}%",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eSKILL_E_INFO_VALUE_DESC",
+			"kr": "일정 완료 시 {0}%확률로 인지도 +{1}",
+			"modify": "일정 완료 시 {0}%확률로 인지도 +{1}",
+			"en": 0,
+			"tw": 0
+		},
+		{
+			"key": "eSKILL_F_INFO_VALUE_DESC",
+			"kr": "능력치 추가 상승 확률",
+			"modify": "텍스트는 사용하지 않으나 코드쪽에서 구분을 위해 사용함",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eSKILL_F_A_INFO_VALUE_DESC",
+			"kr": "외모 +{0}",
+			"modify": "외모 +{0}",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eSKILL_F_B_INFO_VALUE_DESC",
+			"kr": "연기력 +{0}",
+			"modify": "연기력 +{0}",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eSKILL_F_C_INFO_VALUE_DESC",
+			"kr": "가창력 +{0}",
+			"modify": "가창력 +{0}",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eSKILL_F_D_INFO_VALUE_DESC",
+			"kr": "유머감각 +{0}",
+			"modify": "유머감각 +{0}",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eSKILL_F_E_INFO_VALUE_DESC",
+			"kr": "유연성 +{0}",
+			"modify": "유연성 +{0}",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eSKILL_F_F_INFO_VALUE_DESC",
+			"kr": "지식 +{0}",
+			"modify": "지식 +{0}",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eSKILL_F_G_INFO_VALUE_DESC",
+			"kr": "성품 +{0}",
+			"modify": "성품 +{0}",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eSKILL_F_H_INFO_VALUE_DESC",
+			"kr": "개성 +{0}",
+			"modify": "개성 +{0}",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eMemo",
+			"kr": "메모노트",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eDiary",
+			"kr": "다이어리",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eGlasses",
+			"kr": "알없는 안경",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "ePen",
+			"kr": "만년필",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eBag",
+			"kr": "메신저백",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eBriefbag",
+			"kr": "서류가방",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eShoes",
+			"kr": "운동화",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eCamera",
+			"kr": "디지털 카메라",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eTablet",
+			"kr": "태블릿",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eCarrier",
+			"kr": "만능 캐리어",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eMirror",
+			"kr": "휴대용 거울",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eStarw",
+			"kr": "뚜껑빨대",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eCleaner",
+			"kr": "휴대용 선풍기",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eEyePatch",
+			"kr": "수면안대",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "ePillow",
+			"kr": "목배게",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eSnack",
+			"kr": "간식상자",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eNutrients",
+			"kr": "영양제",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eDisguise",
+			"kr": "변신장비",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "ePerfume",
+			"kr": "향수",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eMic",
+			"kr": "휴대용 마이크",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eSticker",
+			"kr": "스티커",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eFan",
+			"kr": "부채",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eCard",
+			"kr": "팝업카드",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eKeyRing",
+			"kr": "키링",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eBromide",
+			"kr": "브로마이드",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eCalendar",
+			"kr": "달력",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eMimBack",
+			"kr": "가방",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eDoll",
+			"kr": "인형",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eTshirt",
+			"kr": "응원 티셔츠",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eCheeringStick",
+			"kr": "응원봉",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eFortune",
+			"kr": "포춘쿠키",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eClover",
+			"kr": "코팅한 네잎클로버",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eLuckyBag",
+			"kr": "복주머니",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eAmulet",
+			"kr": "부적",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eLuckyCoin",
+			"kr": "럭키코인",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eTwoDollars",
+			"kr": "행운의 2달러",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eDreamCatcher",
+			"kr": "드림캐처",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eBracelet",
+			"kr": "행운팔찌",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eFingerNecklace",
+			"kr": "행운 목걸이",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eGoldenTurtle",
+			"kr": "황금거북이",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eMemoDesc",
+			"kr": "1% 확률로 랜덤 스탯 1 획득",
+			"modify": "일정 진행 시 1% 확률로\\n랜덤 스탯 1 획득",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eDiaryDesc",
+			"kr": "3% 확률로 랜덤 스탯 1 획득",
+			"modify": "일정 진행 시 3% 확률로\\n랜덤 스탯 1 획득",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eGlassesDesc",
+			"kr": "5% 확률로 랜덤 스탯 1 획득",
+			"modify": "일정 진행 시 5% 확률로\\n랜덤 스탯 1 획득",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "ePenDesc",
+			"kr": "7% 확률로 랜덤 스탯 1 획득",
+			"modify": "일정 진행 시 7% 확률로\\n랜덤 스탯 1 획득",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eBagDesc",
+			"kr": "9% 확률로 랜덤 스탯 1 획득",
+			"modify": "일정 진행 시 9% 확률로\\n랜덤 스탯 1 획득",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eBriefbagDesc",
+			"kr": "11% 확률로 랜덤 스탯 1 획득",
+			"modify": "일정 진행 시 11% 확률로\\n랜덤 스탯 1 획득",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eShoesDesc",
+			"kr": "13% 확률로 랜덤 스탯 1 획득",
+			"modify": "일정 진행 시 13% 확률로\\n랜덤 스탯 1 획득",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eCameraDesc",
+			"kr": "15% 확률로 랜덤 스탯 2획득",
+			"modify": "일정 진행 시 15% 확률로\\n랜덤 스탯 2획득",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eTabletDesc",
+			"kr": "17% 확률로 랜덤 스탯 2 획득",
+			"modify": "일정 진행 시 17% 확률로\\n랜덤 스탯 2 획득",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eCarrierDesc",
+			"kr": "20% 확률로 랜덤 스탯 2 획득",
+			"modify": "일정 진행 시 20% 확률로 랜덤 스탯 2 획득",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eMirrorDesc",
+			"kr": "1% 확률로 체력 1 회복",
+			"modify": "일정 진행 시 1%\\n확률로 체력 1 회복",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eStarwDesc",
+			"kr": "3% 확률로 체력 1 회복",
+			"modify": "일정 진행 시 3%\\n확률로 체력 1 회복",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eCleanerDesc",
+			"kr": "5% 확률로 체력 1 회복",
+			"modify": "일정 진행 시 5%\\n확률로 체력 1 회복",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eEyePatchDesc",
+			"kr": "7% 확률로 체력 1 회복",
+			"modify": "일정 진행 시 7%\\n확률로 체력 1 회복",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "ePillowDesc",
+			"kr": "7% 확률로 체력 2 회복",
+			"modify": "일정 진행 시 7%\\n확률로 체력 2 회복",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eSnackDesc",
+			"kr": "9% 확률로 체력 2 회복",
+			"modify": "일정 진행 시 9%\\n확률로 체력 2 회복",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eNutrientsDesc",
+			"kr": "11% 확률로 체력 2 회복",
+			"modify": "일정 진행 시 11%\\n확률로 체력 2 회복",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eDisguiseDesc",
+			"kr": "13% 확률로 체력 2 회복",
+			"modify": "일정 진행 시 13%\\n확률로 체력 2 회복",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "ePerfumeDesc",
+			"kr": "13% 확률로 체력 3 회복",
+			"modify": "일정 진행 시 13%\\n확률로 체력 3 회복",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eMicDesc",
+			"kr": "15% 확률로 체력 3 회복",
+			"modify": "일정 진행 시 15% 확률로 체력 3 회복",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eStickerDesc",
+			"kr": "1% 확률로 인지도 1 추가 상승",
+			"modify": "일정 진행 시 1% 확률로\\n인지도 1 추가 상승",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eFanDesc",
+			"kr": "3% 확률로 인지도 1 추가 상승",
+			"modify": "일정 진행 시 3% 확률로\\n인지도 1 추가 상승",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eCardDesc",
+			"kr": "5% 확률로 인지도 1 추가 상승",
+			"modify": "일정 진행 시 5% 확률로\\n인지도 1 추가 상승",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eKeyRingDesc",
+			"kr": "7% 확률로 인지도 1 추가 상승",
+			"modify": "일정 진행 시 7% 확률로\\n인지도 1 추가 상승",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eBromideDesc",
+			"kr": "9% 확률로 인지도 1 추가 상승",
+			"modify": "일정 진행 시 9% 확률로\\n인지도 1 추가 상승",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eCalendarDesc",
+			"kr": "11% 확률로 인지도 1 추가 상승",
+			"modify": "일정 진행 시 11% 확률로\\n인지도 1 추가 상승",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eMimBackDesc",
+			"kr": "13% 확률로 인지도 1 추가 상승",
+			"modify": "일정 진행 시 13% 확률로\\n인지도 1 추가 상승",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eDollDesc",
+			"kr": "15% 확률로 인지도 1 추가 상승",
+			"modify": "일정 진행 시 15% 확률로\\n인지도 1 추가 상승",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eTshirtDesc",
+			"kr": "17% 확률로 인지도 1 추가 상승",
+			"modify": "일정 진행 시 17% 확률로\\n인지도 1 추가 상승",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eCheeringStickDesc",
+			"kr": "20% 확률로 인지도 1 추가 상승",
+			"modify": "일정 진행 시 20% 확률로\\n인지도 1 추가 상승",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eFortuneDesc",
+			"kr": "돌발 이벤트 발생 확률\\n1% 상승",
+			"modify": "돌발 이벤트 발생 확률\\n1% 상승",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eCloverDesc",
+			"kr": "돌발 이벤트 발생 확률\\n3% 상승",
+			"modify": "돌발 이벤트 발생 확률\\n3% 상승",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eLuckyBagDesc",
+			"kr": "돌발 이벤트 발생 확률\\n5% 상승",
+			"modify": "돌발 이벤트 발생 확률\\n5% 상승",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eAmuletDesc",
+			"kr": "돌발 이벤트 발생 확률\\n7% 상승",
+			"modify": "돌발 이벤트 발생 확률\\n7% 상승",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eLuckyCoinDesc",
+			"kr": "돌발 이벤트 발생 확률\\n9% 상승",
+			"modify": "돌발 이벤트 발생 확률\\n9% 상승",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eTwoDollarsDesc",
+			"kr": "돌발 이벤트 발생 확률\\n11% 상승",
+			"modify": "돌발 이벤트 발생 확률\\n11% 상승",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eDreamCatcherDesc",
+			"kr": "돌발 이벤트 발생 확률\\n13% 상승",
+			"modify": "돌발 이벤트 발생 확률\\n13% 상승",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eBraceletDesc",
+			"kr": "돌발 이벤트 발생 확률\\n15% 상승",
+			"modify": "돌발 이벤트 발생 확률\\n15% 상승",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eFingerNecklaceDesc",
+			"kr": "돌발 이벤트 발생 확률\\n17% 상승",
+			"modify": "돌발 이벤트 발생 확률\\n17% 상승",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eGoldenTurtleDesc",
+			"kr": "돌발 이벤트 발생 확률\\n20% 상승",
+			"modify": "돌발 이벤트 발생 확률\\n20% 상승",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eD_STATE",
+			"kr": "{0} +{1}",
+			"modify": "이전 꿈이벤트에서 사용하던 텍스트 , 사용안함",
+			"en": "{0} +{1}",
+			"tw": "{0} +{1}"
+		},
+		{
+			"key": "eD_HP",
+			"kr": "체력 +{0}",
+			"modify": "이전 꿈이벤트에서 사용하던 텍스트 , 사용안함",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eD_AWARENESS",
+			"kr": "{0} +{1}",
+			"modify": "이전 꿈이벤트에서 사용하던 텍스트 , 사용안함",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eD_GOLD",
+			"kr": "{0:00} 코인",
+			"modify": "이전 꿈이벤트에서 사용하던 텍스트 , 사용안함",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eD_DIA",
+			"kr": "보석 {0}개",
+			"modify": "이전 꿈이벤트에서 사용하던 텍스트 , 사용안함",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "NO_1",
+			"kr": "과로",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "NO_2",
+			"kr": "sns스타",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "NO_3",
+			"kr": "꿈을 위한 과정",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "NO_4",
+			"kr": "새로운 무대",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "NO_5",
+			"kr": "파이팅 배우지망생",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "NO_6",
+			"kr": "노래의 길",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "NO_7",
+			"kr": "행복한 버스커",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "NO_8",
+			"kr": "유튜버",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "NO_9",
+			"kr": "테마파크 직원",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "NO_10",
+			"kr": "댄스팀",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "NO_11",
+			"kr": "연습생",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "NO_12",
+			"kr": "아는것이 힘이다",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "NO_13",
+			"kr": "숨은 주인공",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "NO_14",
+			"kr": "그저 빛",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "NO_15",
+			"kr": "보육교사",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "NO_16",
+			"kr": "본투비 대표",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "NO_17",
+			"kr": "미래의 디자이너",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "NO_18",
+			"kr": "cf 스타",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "NO_19",
+			"kr": "잡지모델",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "NO_20",
+			"kr": "신인상은 내꺼야",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "NO_21",
+			"kr": "엑스트라 배우 ",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "NO_22",
+			"kr": "국민가수 등극",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "NO_23",
+			"kr": "코러스 가수",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "NO_24",
+			"kr": "프로예능인의 길",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "NO_25",
+			"kr": "신인 예능인",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "NO_26",
+			"kr": "메인 댄서",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "NO_27",
+			"kr": "인내의 시간",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "NO_28",
+			"kr": "국민MC 꿈나무",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "NO_29",
+			"kr": "언젠가는",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "NO_30",
+			"kr": "기부천사",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "NO_31",
+			"kr": "떠오르는 초통령",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "NO_32",
+			"kr": "만인의 뮤즈",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "NO_33",
+			"kr": "라이징스타",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eEnidngTitleSubNew",
+			"kr": "새로운 엔딩을 획득하였습니다.",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eEnidngTitleSubHave",
+			"kr": "엔딩을 획득하였습니다.",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eBtnEdningVideoTry",
+			"kr": "다시 하기",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eBtnEdningVideoTrySub",
+			"kr": "스탯 10% 유지",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eBtnEdningTry",
+			"kr": "다시 하기",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eStore_eState",
+			"kr": "업무용",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eStore_eHP",
+			"kr": "생활용품",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eStore_eAwareness",
+			"kr": "홍보용품",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eStore_eSuddenEvent",
+			"kr": "행운",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eStateTitle",
+			"kr": "능력치",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eAwarenessTitle",
+			"kr": "인지도",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eHave",
+			"kr": "보유중",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eEquip",
+			"kr": "착용중",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eHPBonus",
+			"kr": "체력회복 +{0}",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eAppearenceBonus",
+			"kr": "보너스 +{0}",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eRandomStateUpDesc",
+			"kr": "축하합니다.\\n스탯이 상승되었습니다.",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eRandomStateUpPoint",
+			"kr": "{0} +{1}",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eShuffle",
+			"kr": "카드 바꾸기",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eLogStateUp",
+			"kr": "{0} : {1}이 {2} 올랐습니다.",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eLogStateDown",
+			"kr": "{0} : {1}이 {2} 떨어졌습니다.",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eLogStateUp_Other",
+			"kr": "{0} : {1}가 {2} 올랐습니다.",
+			"modify": 0,
+			"en": 0,
+			"tw": 0
+		},
+		{
+			"key": "eLogStateDown_Other",
+			"kr": "{0} : {1}가 {2} 떨어졌습니다.",
+			"modify": 0,
+			"en": 0,
+			"tw": 0
+		},
+		{
+			"key": "eLogStateAllDown",
+			"kr": "휴식으로 인해 모든 스텟이 -1씩 떨어집니다.",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eLogSuddenEventStart",
+			"kr": "돌발이벤트 '{0}'를 진행합니다.",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eLogSuddenEventEndHpUp",
+			"kr": "돌발이벤트 : '{0}' 결과로 체력 {1}이 올랐습니다.",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eLogSuddenEventEndHpDown",
+			"kr": "돌발이벤트 : '{0}' 결과로 체력 {1}이 떨어집니다.",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eLogSuddenEventEndAwarenssUp",
+			"kr": "돌발이벤트 : '{0}' 결과로 인지도 {1}가 올랐습니다.",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eLogSuddenEventEndAwarenssDown",
+			"kr": "돌발이벤트 : '{0}' 결과로 인지도 {1}가 떨어집니다.",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eLogSuddenEventEndGoldUp",
+			"kr": "돌발이벤트 : '{0}' 결과로 코인을 {1} 잃었습니다.",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eLogSuddenEventEndGoldDown",
+			"kr": "돌발이벤트 : '{0}' 결과로 코인을 {1} 얻었습니다.",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eLogSuddenEventEndStateUp",
+			"kr": "돌발이벤트 : '{0}' 결과로 {1}이 {2} 올랐습니다.",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eLogSuddenEventEndStateDown",
+			"kr": "돌발이벤트 : '{0}' 결과로 {1}이 {2} 떨어집니다.",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eLogHPDown",
+			"kr": "스케줄 진행으로 체력이 {0} 떨어졌습니다.",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eLogAwarenessUp",
+			"kr": "스케줄 진행으로 인지도가 {0} 올랐습니다.",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eLogAwarenessDown",
+			"kr": "스케줄 진행으로 인지도가 {0} 떨어집니다.",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eLogManagerTime",
+			"kr": "매니저 효과로 인해 시간이 {0}초 감소합니다.",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eLogManagerHP",
+			"kr": "매니저 효과로 인해 체력이 {0} 올랐습니다.",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eLogManagerAwarenss",
+			"kr": "매니저 효과로 인해 인지도가 {0} 올랐습니다.",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eLogManagerState",
+			"kr": "매니저 효과로 인해 {0}이 올랐습니다.",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eLogMananagerSudden",
+			"kr": "매니저 효과로 돌발이벤트 발생 되었습니다.",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eLogItemTimeEffect",
+			"kr": "아이템 '{0}' 인해 시간이 {1} 감소합니다.",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eLogItemHp",
+			"kr": "아이템 '{0}' 인해 체력이 {1} 회복됩니다.",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eLogItemAwareness",
+			"kr": "아이템 '{0}' 인해 인지도가 {1} 상승합니다.",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eLogItemState",
+			"kr": "아이템 '{0}' 인해 {1}이 {2} 올랐습니다.",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eEndingAlbumALL",
+			"kr": "All",
+			"modify": 0,
+			"en": "ALL",
+			"tw": "ALL"
+		},
+		{
+			"key": "eEndingAlbumSTAR",
+			"kr": "Star",
+			"modify": 0,
+			"en": "STAR",
+			"tw": "STAR"
+		},
+		{
+			"key": "eEndingAlbumNORMAL",
+			"kr": "Normal",
+			"modify": 0,
+			"en": "NORMLA",
+			"tw": "NORMLA"
+		},
+		{
+			"key": "eEndingLastAudition",
+			"kr": "최종 오디션",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "AUDITION_PANEL_0",
+			"kr": "유명 기획사 대표",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "AUDITION_PANEL_1",
+			"kr": "아이돌 프로듀서",
+			"modify": "아이돌 프로듀서",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "AUDITION_PANEL_2",
+			"kr": "현역 아이돌",
+			"modify": "현역 아이돌",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eLabelAuditionResult",
+			"kr": "당신의 오디션 결과는…",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eBtnEndingHPEmpty",
+			"kr": "체력 소진",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eEndingHPEmpty",
+			"kr": "모든 체력이 소진되어\\n더 이상 일정을 진행할 수 없습니다.\\n{0}초 후 엔딩으로 이동합니다.",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eSkillChanageTitle",
+			"kr": "스킬변경",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eSkillChagneMessage",
+			"kr": "광고를 보면 매니저의\\n스킬을 변경할 수 있습니다.",
+			"modify": "광고를 보면 매니저의\\n스킬을 변경할 수 있습니다.",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eSkillChangeMessageDesc",
+			"kr": "매니저 스킬의 최대 등급은 S등급 입니다.",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eBtnSkillCnage",
+			"kr": "변경하기",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eManagerChangeTitle",
+			"kr": "매니저 변경",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eManagerChagneMessage",
+			"kr": "광고를 보면 매니저의\\n스킬을 변경할 수 있습니다.",
+			"modify": "광고를 보면 매니저의\\n스킬을 변경할 수 있습니다.",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eManagerChangeMessageDesc",
+			"kr": "매니저 스킬의 최대 등급은 S등급 입니다.",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eBtnManagerCnage",
+			"kr": "변경하기",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eDreamRetryTitle",
+			"kr": "랜덤카드",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eDreamRetryMessage",
+			"kr": "광고를 보면 선물을\\n다시 뽑을 수 있습니다.",
+			"modify": "광고를 보면 선물을\\n다시 뽑을 수 있습니다.",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eDreamRetryMessageDesc",
+			"kr": "랜덤으로 카드 보상을 획득합니다.",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eBtnDreamRetry",
+			"kr": "광고보기",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eStateUpTitle",
+			"kr": "랜덤 능력치",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eStateUpMessage",
+			"kr": "광고를 보면 랜덤으로\\n1~10의 스탯을 획득합니다.",
+			"modify": "광고를 보면 랜덤으로\\n1~10의 스탯을 획득합니다.",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eStateUpMessageDesc",
+			"kr": "랜덤으로 1~10의 포인트를 얻습니다.",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eBtnStateUp",
+			"kr": "광고보기",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eEndingVideoTitle",
+			"kr": "광고보기",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eEndingVideoMessage",
+			"kr": "광고를 보면 10%의 능력치를\\n유지하고 다시 시작합니다.",
+			"modify": "광고를 보면 10%의 능력치를\\n유지하고 다시 시작합니다.",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eEndingVideoMessageDesc",
+			"kr": "10%의 능력치를 얻습니다.",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eBtnEndingVideo",
+			"kr": "광고보기",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eBtnItemBuy",
+			"kr": "장비 구매",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eMemo_Text",
+			"kr": "나는 내 머리를 믿지 않는다.\\n뭐든지 기록하자.",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eDiary_Text",
+			"kr": "다이어리는 쓰는 게 아니다.\\n꾸미는 거다.",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eGlasses_Text",
+			"kr": "지적 능력이 100%\\n상승했습니다.",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "ePen_Text",
+			"kr": "만년필로 쓴 글을 보고\\n암호문이냐는 질문을 받았다.",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eBag_Text",
+			"kr": "굉장히 편한 메신저백.\r\\n착용감이 거의 없다.",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eBriefbag_Text",
+			"kr": "진짜 회사원이 된 느낌이다.\\n어서 빨리 퇴근을 해야할 것 같다.",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eShoes_Text",
+			"kr": "아무리 오래 걸어도 지치지 않다.\r\\n지치는 건 나일 뿐.",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eCamera_Text",
+			"kr": "비싸게 주고 산 디지털 카메라.\\n수전증은 어떡하지..?",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eTablet_Text",
+			"kr": "스마트한 매니저의 필수품!\\n대기 시간이 지루하지 않죠!",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eCarrier_Text",
+			"kr": "없는 게 없는 마법의 캐리어.\r\\n전기도 만들 수 있다고..?",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eMirror_Text",
+			"kr": "여성들의 필수품 공주 거울.\r\\n휴대하기엔 너무 크지 않나?",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eStarw_Text",
+			"kr": "연예인은 물을 마실 때도 특별하게!\\n그런데 소독은 하는걸까..?",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eCleaner_Text",
+			"kr": "반경 1m의 공기를 정화한다.\r\\n약간의 아로마 향이 포함되어 있다.",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eEyePatch_Text",
+			"kr": "빛을 막기 위해서가 아닌,\r\\n눈 뜨고 자는 걸 감추기 위한 잇템.",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "ePillow_Text",
+			"kr": "안마 기능이 있는 기능성 목베개.",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eSnack_Text",
+			"kr": "상자가 가득하지 않으면\\n예민해지니 조심하자.",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eNutrients_Text",
+			"kr": "배타민, 유산균, 마그네슘, 오메가3..\\n이 정도면 약국 차려도 될 것 같다.",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eDisguise_Text",
+			"kr": "아무도 못알아보는데\\n왜 굳이 변장을 해야 할까?",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "ePerfume_Text",
+			"kr": "매력을 끌어올려주는 마성의 향수.\\n킁킁.. 고기 냄새가 난다.",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eMic_Text",
+			"kr": "어떤 장소던지 노래방으로 변신!\r\\n전 세계 모든 음악이 내장되어 있다.",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eSticker_Text",
+			"kr": "아이들에게 인기 만점!\r\\n여기저기 붙였다 뗄 수 있다.",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eFan_Text",
+			"kr": "밈의 얼굴이 그려져 있는 부채.\r\\n실제 얼굴 크기 그대로 만들어졌다.",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eCard_Text",
+			"kr": "펼치면 밈이 포즈를 취하는 카드.\r\\n주변 풍경까지 디테일이 굉장하다.",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eKeyRing_Text",
+			"kr": "밈 피규어 키링. 밈이 제작에 직접\\n참여해 외모 보정이 들어갔다.",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eBromide_Text",
+			"kr": "커튼 크기의 대형 브로마이드.\\n벽 전면을 꾸밀 수도 있다.",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eCalendar_Text",
+			"kr": "매월 다른 컨셉으로 제작된 밈 달력.\\n밈의 각종 기념일이 포함되어 있다.",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eMimBack_Text",
+			"kr": "가방의 지퍼, 내부도 밈으로 가득하다.\\n숨겨진 밈을 찾는 재미가 있다.",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eDoll_Text",
+			"kr": "밈과 똑같이 생긴 봉제 인형.\\n의상을 갈아입힐 수도 있다.",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eTshirt_Text",
+			"kr": "밈을 대문짝만하게 프린팅한 티셔츠.\\n허리춤의 휴대폰 모양이 포인트다.",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eCheeringStick_Text",
+			"kr": "아이돌 굿즈의 꽃은 역시 응원봉!\\n와이파이를 형상화했다고 한다.",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eFortune_Text",
+			"kr": "행복이 가득 담긴 쿠키.\\n맛있어서 먹으면 행복해진다고.. ",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eClover_Text",
+			"kr": "정성들여 코팅한 네잎클로버.\\n진짜인지는 알 수 없다.",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eLuckyBag_Text",
+			"kr": "무언가 들어 있는 볼록한 주머니.\\n열어보면 안될 것 같다.",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eAmulet_Text",
+			"kr": "용한 점쟁이가 만들어 준 부적.\\n알 수 없는 그림이 그려져 있다.",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eLuckyCoin_Text",
+			"kr": "던지면 소원을 들어주는 동전.\\n말 그대로 들어주기만 한다.",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eTwoDollars_Text",
+			"kr": "지니면 행운이 찾아온다는 지폐.\\n돈이라고 함부로 사용하지 말자.",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eDreamCatcher_Text",
+			"kr": "악몽을 막아주고 좋은 꿈을\\n돼지꿈도 꾸게 해줄까..?",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eBracelet_Text",
+			"kr": "끊어지면 소원이 이루어진다는데,\\n절대 끊어지지 않을 것 같다.",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eFingerNecklace_Text",
+			"kr": "꼬인 손가락 모양의 목걸이.\\n행운? 거짓말? 어떤 의미일까?",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eGoldenTurtle_Text",
+			"kr": "황금으로된 거북이 조각상.\\n지니면 무병장수한다는 설이 있다.",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eSuddenEventResult",
+			"kr": "돌발이벤트 결과",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eHPRecoveryTitle",
+			"kr": "체력회복",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eHPRecoveryMessage",
+			"kr": "지금 광고를 보면 +10의 체력을\\n얻을 수 있습니다.",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eHPRecoveryMessageDesc",
+			"kr": "10의 체력을 얻습니다.",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eBtnHPRecovery",
+			"kr": "광고보기",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eBtnItemEquip",
+			"kr": "장착",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eBtnItemUnEquip",
+			"kr": "장착해제",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eWeeklyManagerRsult",
+			"kr": "매니저수익",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eFairyItemTitle",
+			"kr": "요정의 아이템",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eFairyItemTitleSub",
+			"kr": "아이템을 사용하려면 아이콘을 터치하세요.",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eFairyItemEventDesc",
+			"kr": "요정의 축복\\n돌발 이벤트 발생 확률 +10%",
+			"modify": "요정의 축복\\n돌발 이벤트 발생 확률 +10%",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eFairyItemGoldDesc",
+			"kr": "요정의 비밀금고\\n주간 보상 2배 획득",
+			"modify": "요정의 비밀금고\\n주간 보상 2배 획득",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eFairyItemTimeDesc",
+			"kr": "요정의 태엽시계\\n일정 진행 속도 3배",
+			"modify": "요정의 태엽시계\\n일정 진행 속도 3배",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eFairyItemStart",
+			"kr": "일정 시작!",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eFairyItemAds",
+			"kr": "FREE",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eStoreAdsDesc",
+			"kr": "랜덤 보석 획득 1~3개\\n일일 제한 ({0}/10)",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eStoreAdsDescBtnText",
+			"kr": "광고보기",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eStoreTitle_AllinOne",
+			"kr": "올인원 팩",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eStoreTitle_InfinityStrenght",
+			"kr": "무한의 체력",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eStoreTitle_5xSpeed",
+			"kr": "바쁘다 바빠",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eStoreTitle_SkipAd",
+			"kr": "광고 스킵",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eStoreTitle_DoubleCoin",
+			"kr": "수익 2배",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eStoreTitle_ItemBuff_0",
+			"kr": "피로회복제",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eStoreTitle_ItemBuff_1",
+			"kr": "영양 비타민",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eStoreTitle_ItemBuff_2",
+			"kr": "요정의 축복",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eStoreTitle_ItemBuff_3",
+			"kr": "요정의 비밀금고",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eStoreTitle_ItemBuff_4",
+			"kr": "요정의 태엽시계",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eStoreAllinOne_Desc",
+			"kr": "네 가지 버프가 한 번에!\\n(무한의 체력 + 바쁘다 바빠\\n+ 광고 스킵 + 수익 2배)",
+			"modify": "네 가지 버프가 한 번에!\\n(무한의 체력 + 바쁘다 바빠\\n+ 광고 스킵 + 수익 2배)",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eStoreInfinityStrenght_Desc",
+			"kr": "영구적으로 밈의\\n체력이 무한이 됩니다.",
+			"modify": "영구적으로 밈의\\n체력이 무한이 됩니다.",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eStore5xSpeed_Desc",
+			"kr": "일정 진행 속도가\\n5배 빨라집니다.",
+			"modify": "일정 진행 속도가\\n5배 빨라집니다.",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eStoreSkipAd_Desc",
+			"kr": "영구적으로 광고를 보지\\n않고 보상을 획득합니다.",
+			"modify": "영구적으로 광고를 보지\\n않고 보상을 획득합니다.",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eStoreDoubleCoin_Desc",
+			"kr": "주간 보상을\\n2배로 획득합니다.",
+			"modify": "주간 보상을\\n2배로 획득합니다.",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eStoreItemBuff_0_Desc",
+			"kr": "밈의 체력 30을\\n즉시 회복합니다.",
+			"modify": "밈의 체력 30을\\n즉시 회복합니다.",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eStoreItemBuff_1_Desc",
+			"kr": "밈의 체력 10을\\n즉시 회복합니다.",
+			"modify": "밈의 체력 10을\\n즉시 회복합니다.",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eStoreItemBuff_2_Desc",
+			"kr": "돌발 이벤트 발생 확률이\\n10% 증가합니다.",
+			"modify": "돌발 이벤트 발생 확률이\\n10% 증가합니다.",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eStoreItemBuff_3_Desc",
+			"kr": "주간 보상을\\n2배로 획득합니다.",
+			"modify": "주간 보상을\\n2배로 획득합니다.",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eStoreItemBuff_4_Desc",
+			"kr": "일정 진행 속도가\\n2배 빨라집니다.",
+			"modify": "일정 진행 속도가\\n2배 빨라집니다.",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eStoreBtnBuyComplite",
+			"kr": "구매 완료 ",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eStoreToggleMoney",
+			"kr": "재화",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eStoreTogglePrimium",
+			"kr": "프리미엄",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eStoreToggleItemBuff",
+			"kr": "아이템",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eStoreToggleItemManager",
+			"kr": "매니저 장비",
+			"modify": "매니저 장비",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eStoreTitle_StarEnding",
+			"kr": "스타 엔딩",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eStoreTitle_NormalEndinng",
+			"kr": "노멀 엔딩",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eStoreTitle_Select_Skill_S",
+			"kr": "S등급 스킬 선택",
+			"modify": "S등급 스킬 선택",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eStoreTitle_Random_Skill_S",
+			"kr": "S등급 스킬 랜덤",
+			"modify": "S등급 스킬 랜덤",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eStoreTitle_Upgrade_Skill",
+			"kr": "스킬 업그레이드",
+			"modify": "스킬 업그레이드",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eStoreStarEnding_Desc",
+			"kr": "미공개 스타 엔딩 1종을\\n확정적으로 획득합니다.",
+			"modify": "미공개 스타 엔딩 1종을\\n확정적으로 획득합니다.",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eStoreNormalEndiing_Desc",
+			"kr": "미공개 노멀 엔딩 1종을\\n확정적으로 획득합니다.",
+			"modify": "미공개 노멀 엔딩 1종을\\n확정적으로 획득합니다.",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eStoreSelectSkillS_Desc",
+			"kr": "S등급 매니저 스킬을\\n선택하여 획득합니다.",
+			"modify": "S등급 매니저 스킬을\\n선택하여 획득합니다.",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eStoreRandomSkillS_Desc",
+			"kr": "S등급 매니저 스킬을\\n랜덤으로 획득합니다.",
+			"modify": "S등급 매니저 스킬을\\n랜덤으로 획득합니다.",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "eStoreUpgradeSkill_Desc",
+			"kr": "보유한 스킬을\\n1등급 업그레이드합니다.",
+			"modify": "보유한 스킬을\\n1등급 업그레이드합니다.",
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "ePopupBuyEndingText",
+			"kr": "시간이 빠르게 흐릅니다.",
+			"modify": 0,
+			"en": "NONE",
+			"tw": "NONE"
+		},
+		{
+			"key": "ePopupBuySkillSBtnSelect",
+			"kr": "선택",
+			"modify": 0,
+			"en": 0,
+			"tw": 0
+		},
+		{
+			"key": "ePopupBuySkillSSelectTitle",
+			"kr": "S등급 스킬 선택",
+			"modify": 0,
+			"en": 0,
+			"tw": 0
+		},
+		{
+			"key": "ePopupBuySkillSSelectDesc",
+			"kr": "선택한 상품을 구입하겠습니까?",
+			"modify": 0,
+			"en": 0,
+			"tw": 0
+		},
+		{
+			"key": "ePopupBuySkillBtnPrice",
+			"kr": "구입  ₩5,200",
+			"modify": 0,
+			"en": 0,
+			"tw": 0
+		},
+		{
+			"key": "ePopupBuySkillRandomBtnPrice",
+			"kr": "구입  ₩2,500",
+			"modify": 0,
+			"en": 0,
+			"tw": 0
+		},
+		{
+			"key": "ePopupBuySkillConfirmTitle",
+			"kr": "축하합니다!",
+			"modify": 0,
+			"en": 0,
+			"tw": 0
+		},
+		{
+			"key": "ePopupBuySkillConfirmDesc",
+			"kr": "스킬을 성공적으로 획득했습니다.",
+			"modify": 0,
+			"en": 0,
+			"tw": 0
+		},
+		{
+			"key": "PopupSkillUpGradeTitle",
+			"kr": "스킬 업그레이드",
+			"modify": 0,
+			"en": 0,
+			"tw": 0
+		},
+		{
+			"key": "PopupBuyInAppItemTitle",
+			"kr": "구입완료",
+			"modify": 0,
+			"en": 0,
+			"tw": 0
+		},
+		{
+			"key": "PopupBuyInAppItemDesc",
+			"kr": "아이템을 구입했습니다!",
+			"modify": 0,
+			"en": 0,
+			"tw": 0
+		},
+		{
+			"key": "eStoreDia_0",
+			"kr": "보석 x10 ",
+			"modify": 0,
+			"en": 0,
+			"tw": 0
+		},
+		{
+			"key": "eStoreDia_1",
+			"kr": "보석 x30",
+			"modify": 0,
+			"en": 0,
+			"tw": 0
+		},
+		{
+			"key": "eStoreDia_2",
+			"kr": "보석 x50",
+			"modify": 0,
+			"en": 0,
+			"tw": 0
+		},
+		{
+			"key": "eStoreDia_3",
+			"kr": "보석 x100",
+			"modify": 0,
+			"en": 0,
+			"tw": 0
+		},
+		{
+			"key": "eStoreGold_0",
+			"kr": "코인 x10000",
+			"modify": 0,
+			"en": 0,
+			"tw": 0
+		},
+		{
+			"key": "eStoreGold_1",
+			"kr": "코인 x50000",
+			"modify": 0,
+			"en": 0,
+			"tw": 0
+		},
+		{
+			"key": "eStoreGold_2",
+			"kr": "코인 x100000",
+			"modify": 0,
+			"en": 0,
+			"tw": 0
+		},
+		{
+			"key": "eStoreGold_3",
+			"kr": "코인 x500000",
+			"modify": 0,
+			"en": 0,
+			"tw": 0
+		},
+		{
+			"key": "eStorePrimium_0",
+			"kr": "올인원 팩",
+			"modify": 0,
+			"en": 0,
+			"tw": 0
+		},
+		{
+			"key": "eStorePrimium_1",
+			"kr": "무한의 체력",
+			"modify": 0,
+			"en": 0,
+			"tw": 0
+		},
+		{
+			"key": "eStorePrimium_2",
+			"kr": "바쁘다 바빠",
+			"modify": 0,
+			"en": 0,
+			"tw": 0
+		},
+		{
+			"key": "eStorePrimium_3",
+			"kr": "광고 스킵",
+			"modify": 0,
+			"en": 0,
+			"tw": 0
+		},
+		{
+			"key": "eStorePrimium_4",
+			"kr": "수익 2배",
+			"modify": 0,
+			"en": 0,
+			"tw": 0
+		},
+		{
+			"key": "eStorePrimium_5",
+			"kr": "스타엔딩",
+			"modify": 0,
+			"en": 0,
+			"tw": 0
+		},
+		{
+			"key": "eStorePrimium_6",
+			"kr": "노멀엔딩",
+			"modify": 0,
+			"en": 0,
+			"tw": 0
+		},
+		{
+			"key": "eStorePrimium_7",
+			"kr": "S스킬 선택",
+			"modify": 0,
+			"en": 0,
+			"tw": 0
+		},
+		{
+			"key": "eStorePrimium_8",
+			"kr": "S스킬 랜덤",
+			"modify": 0,
+			"en": 0,
+			"tw": 0
+		},
+		{
+			"key": "eStorePrimium_9",
+			"kr": "현재 보유스킬 한단계업그레이드",
+			"modify": 0,
+			"en": 0,
+			"tw": 0
+		},
+		{
+			"key": "eStoreItemBuff_0",
+			"kr": "피로회복제",
+			"modify": 0,
+			"en": 0,
+			"tw": 0
+		},
+		{
+			"key": "eStoreItemBuff_1",
+			"kr": "영양 비타민",
+			"modify": 0,
+			"en": 0,
+			"tw": 0
+		},
+		{
+			"key": "eStoreItemBuff_2",
+			"kr": "요정의 축복",
+			"modify": 0,
+			"en": 0,
+			"tw": 0
+		},
+		{
+			"key": "eStoreItemBuff_3",
+			"kr": "요정의 비밀금고",
+			"modify": 0,
+			"en": 0,
+			"tw": 0
+		},
+		{
+			"key": "eStoreItemBuff_4",
+			"kr": "요정의 태엽시계",
+			"modify": 0,
+			"en": 0,
+			"tw": 0
+		},
+		{
+			"key": "eRevenu",
+			"kr": "주급",
+			"modify": 0,
+			"en": 0,
+			"tw": 0
+		},
+		{
+			"key": "eDreamEventTouchCard",
+			"kr": "카드를 터치해 주세요",
+			"modify": 0,
+			"en": 0,
+			"tw": 0
+		},
+		{
+			"key": "PopupAdsErrorNetworkTitle",
+			"kr": "네트워크 연결 끊김",
+			"modify": 0,
+			"en": 0,
+			"tw": 0
+		},
+		{
+			"key": "PopupAdsErrorNetworkDesc",
+			"kr": "광고를 불러올 수 없습니다\\n네트워크 연결 상태를\\n먼저 확인하세요.",
+			"modify": 0,
+			"en": 0,
+			"tw": 0
+		},
+		{
+			"key": "PopupBuyFiaryItemTitle",
+			"kr": "아이템 구입",
+			"modify": 0,
+			"en": 0,
+			"tw": 0
+		},
+		{
+			"key": "PopupBuyFiaryItemDesc",
+			"kr": "아이템을 구입하식겠습니까?",
+			"modify": 0,
+			"en": 0,
+			"tw": 0
+		},
+		{
+			"key": "PopupBuyFiaryItemConfirmTitle",
+			"kr": "구입 완료",
+			"modify": 0,
+			"en": 0,
+			"tw": 0
+		},
+		{
+			"key": "PopupBuyFiaryItemConfirmDesc",
+			"kr": "아이템을 구입했습니다!",
+			"modify": 0,
+			"en": 0,
+			"tw": 0
+		},
+		{
+			"key": "PopupBuyFiaryFailTitle",
+			"kr": "구입 실패",
+			"modify": 0,
+			"en": 0,
+			"tw": 0
+		},
+		{
+			"key": "PopupBuyFiaryFailDesc",
+			"kr": "구입에 실패했습니다.\\n보석 보유량 혹은 네트워크 연결을\\n확인하고 다시 시도하세요.",
+			"modify": 0,
+			"en": 0,
+			"tw": 0
+		},
+		{
+			"key": "PopupBuyHPRecoveryTitle",
+			"kr": "긴급 체력 회복",
+			"modify": 0,
+			"en": 0,
+			"tw": 0
+		},
+		{
+			"key": "PopupBuyHPRecoveryDesc",
+			"kr": "비상! 체력이 많이 떨어졌습니다.\\n지금 광고를 보면\\n체력을 10만큼 획복합니다.",
+			"modify": 0,
+			"en": 0,
+			"tw": 0
+		},
+		{
+			"key": "PopupBuyHPRecoveryBtn",
+			"kr": "체력 회복",
+			"modify": 0,
+			"en": 0,
+			"tw": 0
+		},
+		{
+			"key": "PopupChanageCardTitle",
+			"kr": "카드 바꾸기",
+			"modify": 0,
+			"en": 0,
+			"tw": 0
+		},
+		{
+			"key": "PopupChanageCardDesc",
+			"kr": "코인을 소모하여\\n카드를 바꾸겠습니까?",
+			"modify": 0,
+			"en": 0,
+			"tw": 0
+		},
+		{
+			"key": "PopupChanageCardBtn",
+			"kr": "카드 바꾸기",
+			"modify": 0,
+			"en": 0,
+			"tw": 0
+		},
+		{
+			"key": "PopupChanageCardCoinEmpty",
+			"kr": "코인이 충분하지 않습니다.\\n코인을 획득한 후 다시 시도하세요.",
+			"modify": 0,
+			"en": 0,
+			"tw": 0
+		},
+		{
+			"key": "PopupChanageCardAds",
+			"kr": "광고를 보면 남은 카드 중\\n1장을 다시 뽑을 수 있습니다.",
+			"modify": 0,
+			"en": 0,
+			"tw": 0
+		},
+		{
+			"key": "PopupChanageCardAdsBtn",
+			"kr": "다시선택",
+			"modify": 0,
+			"en": 0,
+			"tw": 0
+		},
+		{
+			"key": "PopupEndingVideoRetryTitle",
+			"kr": "다시하기-스텟유지",
+			"modify": 0,
+			"en": 0,
+			"tw": 0
+		},
+		{
+			"key": "PopupEndingVideoRetryDesc",
+			"kr": "지금 광고를 보면 10%의 능력치를\\n유지한 상태로\\n다시 시작할 수 있습니다.",
+			"modify": 0,
+			"en": 0,
+			"tw": 0
+		},
+		{
+			"key": "PopupEndingVideoRetryBtn",
+			"kr": "다시하기",
+			"modify": 0,
+			"en": 0,
+			"tw": 0
+		},
+		{
+			"key": "PopupSkillVideoSelectTitle",
+			"kr": "스킬 다시선택",
+			"modify": 0,
+			"en": 0,
+			"tw": 0
+		},
+		{
+			"key": "PopupSkillVideoSelectDesc",
+			"kr": "광고를 보면 매니저 스킬을\\n다시 선택할 수 있습니다.",
+			"modify": 0,
+			"en": 0,
+			"tw": 0
+		},
+		{
+			"key": "PopupSkillVideoSelectDescSub",
+			"kr": "스킬을 다시 선택하면 이전\\n스킬을 되돌릴 수 없습니다.",
+			"modify": 0,
+			"en": 0,
+			"tw": 0
+		},
+		{
+			"key": "PopupSkillVideoSelectBtn",
+			"kr": "다시선택",
+			"modify": 0,
+			"en": 0,
+			"tw": 0
+		},
+		{
+			"key": "TextBuyRandomState",
+			"kr": "랜덤 스텟은 1회만 구입가능합니다.",
+			"modify": 0,
+			"en": 0,
+			"tw": 0
+		},
+		{
+			"key": "TextFreeVideoNotice",
+			"kr": "무료광고는 하루에 10번 가능합니다.",
+			"modify": 0,
+			"en": 0,
+			"tw": 0
+		},
+		{
+			"key": "TextEmptyDia",
+			"kr": "보석이 부족합니다.",
+			"modify": 0,
+			"en": 0,
+			"tw": 0
+		},
+		{
+			"key": "TextEmptyVideo",
+			"kr": "현재 플레이가능한 짧은 광고가 없습니다\\n잠시 후 다시 시도해 주세요.",
+			"modify": 0,
+			"en": 0,
+			"tw": 0
+		},
+		{
+			"key": "TextEmptyGold",
+			"kr": "코인이 부족합니다.",
+			"modify": 0,
+			"en": 0,
+			"tw": 0
+		},
+		{
+			"key": "eTextBuyCheck",
+			"kr": "이미 구매하였습니다.",
+			"modify": 0,
+			"en": 0,
+			"tw": 0
+		},
+		{
+			"key": "eTextBuyCheck_0",
+			"kr": "{0} 구매하였습니다.",
+			"modify": 0,
+			"en": 0,
+			"tw": 0
+		},
+		{
+			"key": "eTextScheduleCheckBuyFairyItem",
+			"kr": "일정 진행 중에는 요정의 아이템을 구입할 수 없습니다.",
+			"modify": 0,
+			"en": 0,
+			"tw": 0
+		},
+		{
+			"key": "eTextHPInfinity",
+			"kr": "∞",
+			"modify": 0,
+			"en": 0,
+			"tw": 0
+		},
+		{
+			"key": "eTextBuyOnChance",
+			"kr": "최초 1회만 구입가능합니다.",
+			"modify": 0,
+			"en": 0,
+			"tw": 0
+		},
+		{
+			"key": "PopupResetCheckTitle",
+			"kr": "리셋",
+			"modify": 0,
+			"en": 0,
+			"tw": 0
+		},
+		{
+			"key": "PopupResetCheckDesc",
+			"kr": "게임을 초기화 하시겠습니끼?",
+			"modify": 0,
+			"en": 0,
+			"tw": 0
+		},
+		{
+			"key": "PopupResetCheckBtnCheck",
+			"kr": "확인",
+			"modify": 0,
+			"en": 0,
+			"tw": 0
+		},
+		{
+			"key": "eTextUpdate",
+			"kr": "업데이트 예정입니다.",
+			"modify": 0,
+			"en": 0,
+			"tw": 0
+		}
+	]
+}

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ArrayOfDialogTable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<xmlManagerTest>
+		<index>0</index>
+		<quest>1. 어떤 스타일의 옷을 입을까?</quest>
+		<choice_0>1) 화사한 원피스</choice_0>
+		<choice_1>2) 편한 트레이닝복</choice_1>
+		<choice_2>3) 꾸안꾸 캐주얼룩</choice_2>
+		<choice_3>4) 단정한 오피스룩</choice_3>
+		<choice_img_0>test_select_01_01</choice_img_0>
+		<choice_img_1>test_select_01_02</choice_img_1>
+		<choice_img_2>test_select_01_03</choice_img_2>
+		<choice_img_3>test_select_01_04</choice_img_3>
+		<choice_value_0>3,2,2,3,2,3</choice_value_0>
+		<choice_value_1>1,4,4,1,3,2</choice_value_1>
+		<choice_value_2>2,3,3,2,3,2</choice_value_2>
+		<choice_value_3>4,1,1,4,2,3</choice_value_3>
+	</xmlManagerTest>
+	<xmlManagerTest>
+		<index>1</index>
+		<quest>2. 어떤 음악을 들을까?</quest>
+		<choice_0>1) 잔잔한 클래식</choice_0>
+		<choice_1>2) 신나는 아이돌 음악</choice_1>
+		<choice_2>3) 감성 충만 발라드</choice_2>
+		<choice_3>4) 스트레스 격파! 록, 헤비메탈</choice_3>
+		<choice_img_0>test_select_02_01</choice_img_0>
+		<choice_img_1>test_select_02_02</choice_img_1>
+		<choice_img_2>test_select_02_03</choice_img_2>
+		<choice_img_3>test_select_02_04</choice_img_3>
+		<choice_value_0>3,2,3,2,0,5</choice_value_0>
+		<choice_value_1>2,3,3,2,4,1</choice_value_1>
+		<choice_value_2>4,1,2,3,1,4</choice_value_2>
+		<choice_value_3>1,4,3,2,5,0</choice_value_3>
+	</xmlManagerTest>
+	<xmlManagerTest>
+		<index>2</index>
+		<quest>3. 길에서 누군가 말을 걸어왔다.</quest>
+		<choice_0>1) 아이가 있는 부부</choice_0>
+		<choice_1>2) 할머니</choice_1>
+		<choice_2>3) 또래 친구</choice_2>
+		<choice_3>4) 멋진 이성</choice_3>
+		<choice_img_0>test_select_03_01</choice_img_0>
+		<choice_img_1>test_select_03_02</choice_img_1>
+		<choice_img_2>test_select_03_03</choice_img_2>
+		<choice_img_3>test_select_03_04</choice_img_3>
+		<choice_value_0>4,1,2,3,3,2</choice_value_0>
+		<choice_value_1>5,0,3,2,2,3</choice_value_1>
+		<choice_value_2>1,4,2,3,2,3</choice_value_2>
+		<choice_value_3>0,5,3,2,3,2</choice_value_3>
+	</xmlManagerTest>
+	<xmlManagerTest>
+		<index>3</index>
+		<quest>4. 당신이 앉아 있는 자세는?</quest>
+		<choice_0>1) 꼿꼿한 정자세</choice_0>
+		<choice_1>2) 다리 꼰 자세</choice_1>
+		<choice_2>3) 양반다리</choice_2>
+		<choice_3>4) 늘어진 자세 (pc방 자세)</choice_3>
+		<choice_img_0>test_select_04_01</choice_img_0>
+		<choice_img_1>test_select_04_02</choice_img_1>
+		<choice_img_2>test_select_04_03</choice_img_2>
+		<choice_img_3>test_select_04_04</choice_img_3>
+		<choice_value_0>3,2,1,4,1,4</choice_value_0>
+		<choice_value_1>2,3,2,3,4,1</choice_value_1>
+		<choice_value_2>3,2,3,2,3,2</choice_value_2>
+		<choice_value_3>2,3,4,1,2,3</choice_value_3>
+	</xmlManagerTest>
+	<xmlManagerTest>
+		<index>4</index>
+		<quest>5. 우연히 본 창 밖. 지금 날씨는?</quest>
+		<choice_0>1) 맑은 하늘</choice_0>
+		<choice_1>2) 구름 낀 선선한 날씨</choice_1>
+		<choice_2>3) 비</choice_2>
+		<choice_3>4) 눈</choice_3>
+		<choice_img_0>test_select_05_01</choice_img_0>
+		<choice_img_1>test_select_05_02</choice_img_1>
+		<choice_img_2>test_select_05_03</choice_img_2>
+		<choice_img_3>test_select_05_04</choice_img_3>
+		<choice_value_0>3,2,3,2,3,2</choice_value_0>
+		<choice_value_1>2,3,4,1,2,3</choice_value_1>
+		<choice_value_2>2,3,2,3,1,4</choice_value_2>
+		<choice_value_3>3,2,1,4,4,1</choice_value_3>
+	</xmlManagerTest>
+</ArrayOfDialogTable>

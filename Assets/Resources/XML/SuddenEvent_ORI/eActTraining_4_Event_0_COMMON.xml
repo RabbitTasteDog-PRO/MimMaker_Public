@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ArrayOfDialogTable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<xmlSudenEvent>
+		<index>0</index>
+		<event_title>무대 기회</event_title>
+		<bgm>브금</bgm>
+		<sfx>효과음</sfx>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>이름</name>
+		<ch_img>이미지</ch_img>
+		<message>대사</message>
+		<choice_0>선택지_1</choice_0>
+		<choice_1>선택지_2</choice_1>
+		<choice_2>선택지_3</choice_2>
+		<stateKey_0>선택지 키값_0</stateKey_0>
+		<stateValue_0>선택지 가감치_0</stateValue_0>
+		<stateKey_1>선택지 키값_1</stateKey_1>
+		<stateValue_1>선택지 가감치_1</stateValue_1>
+		<stateKey_2>선택지 키값_2</stateKey_2>
+		<stateValue_2>선택지 가감치_2</stateValue_2>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>1</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>밈</name>
+		<ch_img>MiM</ch_img>
+		<message>워우워우예~♪</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>2</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>밈</name>
+		<ch_img>MiM</ch_img>
+		<message>흠~ 오늘 목 상태 괜찮은데?</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>3</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>매니저</name>
+		<ch_img>MANAGER</ch_img>
+		<message>밈! 좋은 소식이 있어요!</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>4</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>밈</name>
+		<ch_img>MiM</ch_img>
+		<message>응? 매니저님, 무슨 소식인데요?</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>5</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>매니저</name>
+		<ch_img>MANAGER</ch_img>
+		<message>밈에게 공연 출연 제의가 들어왔어요! 
+그것도 무려 2개나!</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>6</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>밈</name>
+		<ch_img>MiM</ch_img>
+		<message>와~ 정말요? 어떤 공연인데요?
+아직 연예인도 아닌데 괜찮을까요?</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>7</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>매니저</name>
+		<ch_img>MANAGER</ch_img>
+		<message>회사 이름으로 참가하는 거라 괜찮아요!
+시간이 겹쳐서 1개만 출연 가능한데,
+둘 중에 어떤 공연이 좋을지 선택해 주세요.</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>8</index>
+		<type>1001</type>
+		<tag>0</tag>
+		<ch_img>MANAGER</ch_img>
+		<choice_0>아이돌이 다수 출연하는 
+아이돌 콘서트에 출연할 수 있어요.</choice_0>
+		<choice_1>군부대에서 위문공연 출연자를 
+모집하고 있어요.</choice_1>
+		<stateKey_0>eAWARENESS,eHP</stateKey_0>
+		<stateValue_0>1,-1</stateValue_0>
+		<stateKey_1>eHP,eSINGING,eFLEX</stateKey_1>
+		<stateValue_1>1,1,1</stateValue_1>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>9</index>
+		<type>1004</type>
+		<tag>1</tag>
+		<message>아이돌 콘서트에 참석하게 된 밈. 
+하지만 하필 인기 절정의 아이돌 사이에
+순서가 잡혀버려, 큰 호응을 이끌어내지는 못했다.</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>10</index>
+		<type>1000</type>
+		<tag>1</tag>
+		<name>밈</name>
+		<ch_img>MiM</ch_img>
+		<message>힘들지만 수만 명 앞에서 공연한 건
+정말 좋은 경험이 됐어요~</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>11</index>
+		<type>1002</type>
+		<tag>1</tag>
+		<message>CHOICE END</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>12</index>
+		<type>1004</type>
+		<tag>2</tag>
+		<message>작은 손짓에도 폭풍같이 호응해 주던 장병들 덕분에,
+밈은 자신감 최고 상태가 되었다.</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>13</index>
+		<type>1000</type>
+		<tag>2</tag>
+		<name>밈</name>
+		<ch_img>MiM</ch_img>
+		<message>매니저님, 저 군부대 공연 한 번 더 가고 싶어요!</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>14</index>
+		<type>1002</type>
+		<tag>2</tag>
+		<message>CHOICE END</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>15</index>
+		<type>1003</type>
+		<tag>0</tag>
+		<message>EVENT_END</message>
+	</xmlSudenEvent>
+</ArrayOfDialogTable>

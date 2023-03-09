@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ArrayOfDialogTable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<xmlSudenEvent>
+		<index>0</index>
+		<event_title>범인은?</event_title>
+		<bgm>브금</bgm>
+		<sfx>효과음</sfx>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>이름</name>
+		<message>대사</message>
+		<choice_0>선택지_1</choice_0>
+		<choice_1>선택지_2</choice_1>
+		<choice_2>선택지_3</choice_2>
+		<stateKey_0>선택지 키값_0</stateKey_0>
+		<stateValue_0>선택지 가감치_0</stateValue_0>
+		<stateKey_1>선택지 키값_1</stateKey_1>
+		<stateValue_1>선택지 가감치_1</stateValue_1>
+		<stateKey_2>선택지 키값_2</stateKey_2>
+		<stateValue_2>선택지 가감치_2</stateValue_2>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>1</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>트레이너</name>
+		<ch_img>TRAINER</ch_img>
+		<message>자 숨 들이쉬고~ 다시 내쉬고~</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>2</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>밈</name>
+		<ch_img>MiM</ch_img>
+		<message>(뿡-)</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>3</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>트레이너</name>
+		<ch_img>TRAINER</ch_img>
+		<message>방금 무슨소리였죠?
+엄청 고약한 소리였는데!</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>4</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>밈</name>
+		<ch_img>MiM</ch_img>
+		<message>그..글쎄요?
+어디서 사고라도 났나..?</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>5</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>트레이너</name>
+		<ch_img>TRAINER</ch_img>
+		<message>괜찮습니다. 그럴수도 있죠!</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>6</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>밈</name>
+		<ch_img>MiM</ch_img>
+		<message>…</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>7</index>
+		<type>1001</type>
+		<tag>0</tag>
+		<ch_img>MiM</ch_img>
+		<choice_0>죄송해요.. 
+갑자기 힘이 들어가서 그만..</choice_0>
+		<choice_1>무슨 말씀이세요? 
+전 아무것도 안했는데?</choice_1>
+		<stateKey_0>eAWARENESS,ePERSONALITY</stateKey_0>
+		<stateValue_0>1,1</stateValue_0>
+		<stateKey_1>eACTING</stateKey_1>
+		<stateValue_1>1</stateValue_1>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>8</index>
+		<type>1004</type>
+		<tag>1</tag>
+		<message>부끄러움에 얼굴을 붉히는 밈. 
+순순히 시인하자 함께 운동을 하는
+회원들 모두에게 귀여움을 받는다.</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>9</index>
+		<type>1000</type>
+		<tag>1</tag>
+		<name>트레이너</name>
+		<ch_img>TRAINER</ch_img>
+		<message>우리 이제 방귀 튼 사이네요?
+킥킥</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>10</index>
+		<type>1002</type>
+		<tag>1</tag>
+		<message>CHOICE END</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>11</index>
+		<type>1004</type>
+		<tag>2</tag>
+		<message>주변 회원들 모두가 
+심증은 있지만 확증은 없는 상황.</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>12</index>
+		<type>1004</type>
+		<tag>2</tag>
+		<message>밈은 모두의 의심을 받지만 
+아무렇지도 않게 운동을 재개한다. 
+그들 주변엔 은은한 잔향만이 남아 있다.</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>13</index>
+		<type>1000</type>
+		<tag>2</tag>
+		<name>밈</name>
+		<ch_img>MiM</ch_img>
+		<message>휴~ 들킬 뻔했다.
+다들 감쪽같이 속았겠지?</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>14</index>
+		<type>1002</type>
+		<tag>2</tag>
+		<message>CHOICE END</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>15</index>
+		<type>1003</type>
+		<tag>0</tag>
+		<message>EVENT_END</message>
+	</xmlSudenEvent>
+</ArrayOfDialogTable>

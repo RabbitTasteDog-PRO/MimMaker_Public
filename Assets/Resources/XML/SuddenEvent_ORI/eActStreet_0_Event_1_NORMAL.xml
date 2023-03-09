@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ArrayOfDialogTable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<xmlSudenEvent>
+		<index>0</index>
+		<event_title>관객 유치</event_title>
+		<bgm>브금</bgm>
+		<sfx>효과음</sfx>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>이름</name>
+		<message>대사</message>
+		<choice_0>선택지_1</choice_0>
+		<choice_1>선택지_2</choice_1>
+		<choice_2>선택지_3</choice_2>
+		<stateKey_0>선택지 키값_0</stateKey_0>
+		<stateValue_0>선택지 가감치_0</stateValue_0>
+		<stateKey_1>선택지 키값_1</stateKey_1>
+		<stateValue_1>선택지 가감치_1</stateValue_1>
+		<stateKey_2>선택지 키값_2</stateKey_2>
+		<stateValue_2>선택지 가감치_2</stateValue_2>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>1</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>매니저</name>
+		<ch_img>MANAGER</ch_img>
+		<message>오늘따라 관객이 많이 없네요..</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>2</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>밈</name>
+		<ch_img>MiM</ch_img>
+		<message>그러게요. 오늘은 슬슬 마무리할까요?</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>3</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>매니저</name>
+		<ch_img>MANAGER</ch_img>
+		<message>잠시만요! 저에게 좋은 생각이 있어요!</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>4</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>밈</name>
+		<ch_img>MiM</ch_img>
+		<message>그게 뭔데요?</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>5</index>
+		<type>1001</type>
+		<tag>0</tag>
+		<ch_img>MANAGER</ch_img>
+		<choice_0>노래의 볼륨을 높여서
+이목을 끌어보죠!</choice_0>
+		<choice_1>화려한 퍼포먼스를 곁들이면 어떨까요?</choice_1>
+		<choice_2>실력을 가장 잘 보여줄 수 있는 
+노래를 불러야죠!</choice_2>
+		<stateKey_0>eGOLD</stateKey_0>
+		<stateValue_0>-2000</stateValue_0>
+		<stateKey_1>eAWARENESS,eCHARACTER</stateKey_1>
+		<stateValue_1>2,1</stateValue_1>
+		<stateKey_2>eAWARENESS,eCHARACTER</stateKey_2>
+		<stateValue_2>1,2</stateValue_2>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>6</index>
+		<type>1004</type>
+		<tag>1</tag>
+		<message>너무 높은 볼륨으로 주변 상가에서 경찰에 신고를 했다. 
+경찰에게 경고를 받은 일행은 벌금을 내야 했다.</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>7</index>
+		<type>1000</type>
+		<tag>1</tag>
+		<name>매니저</name>
+		<ch_img>MANAGER</ch_img>
+		<message>죄송해요.. 주변 생각을 못 했네요..</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>8</index>
+		<type>1002</type>
+		<tag>1</tag>
+		<message>CHOICE END</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>9</index>
+		<type>1004</type>
+		<tag>2</tag>
+		<message>어디에서도 볼 수 없었던 파격적인 퍼포먼스로 인해
+지나가는 모든 사람들의 관심을 끄는 데 성공했다.</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>10</index>
+		<name>매니저</name>
+		<ch_img>MANAGER</ch_img>
+		<message>음.. 예상보다 더 과격한데..
+괜찮으려나..</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>11</index>
+		<type>1002</type>
+		<tag>2</tag>
+		<message>CHOICE END</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>12</index>
+		<type>1004</type>
+		<tag>3</tag>
+		<message>한 명, 두 명.. 조금씩이지만 점점 관객이 늘어났고,
+대부분의 관객이 공연 끝까지 자리를 지킬 정도로
+공연에 빠져들었다.</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>13</index>
+		<type>1000</type>
+		<tag>3</tag>
+		<name>매니저</name>
+		<ch_img>MANAGER</ch_img>
+		<message>밈! 이것 봐요!
+팬카페 회원 수가 많이 늘었어요!</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>14</index>
+		<type>1002</type>
+		<tag>3</tag>
+		<message>CHOICE END</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>15</index>
+		<type>1003</type>
+		<tag>0</tag>
+		<message>EVENT_END</message>
+	</xmlSudenEvent>
+</ArrayOfDialogTable>

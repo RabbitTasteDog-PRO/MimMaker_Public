@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ArrayOfDialogTable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<xmlManagerTest>
+		<index>0</index>
+		<quest>오늘은 오랜만에 친구를 만나는 날.
+어떤 옷을 입고 나갈까?</quest>
+		<choice_0>화사한 원피스</choice_0>
+		<choice_1>편한 트레이닝복</choice_1>
+		<choice_2>꾸안꾸 캐주얼룩</choice_2>
+		<choice_3>단정한 오피스룩</choice_3>
+		<choice_img_0>test_select_01_01</choice_img_0>
+		<choice_img_1>test_select_01_02</choice_img_1>
+		<choice_img_2>test_select_01_03</choice_img_2>
+		<choice_img_3>test_select_01_04</choice_img_3>
+		<choice_value_0>3,2,2,3,2,3</choice_value_0>
+		<choice_value_1>1,4,4,1,3,2</choice_value_1>
+		<choice_value_2>2,3,3,2,3,2</choice_value_2>
+		<choice_value_3>4,1,1,4,2,3</choice_value_3>
+	</xmlManagerTest>
+	<xmlManagerTest>
+		<index>1</index>
+		<quest>집을 나와 약속 장소로 가는 길.
+심심하니 음악이나 들으면서 가기로 한다.
+어떤 음악을 들을까?</quest>
+		<choice_0>잔잔한 클래식</choice_0>
+		<choice_1>신나는 아이돌 음악</choice_1>
+		<choice_2>감성 충만 발라드</choice_2>
+		<choice_3>스트레스 격파! 록!</choice_3>
+		<choice_img_0>test_select_02_01</choice_img_0>
+		<choice_img_1>test_select_02_02</choice_img_1>
+		<choice_img_2>test_select_02_03</choice_img_2>
+		<choice_img_3>test_select_02_04</choice_img_3>
+		<choice_value_0>3,2,3,2,0,5</choice_value_0>
+		<choice_value_1>2,3,3,2,4,1</choice_value_1>
+		<choice_value_2>4,1,2,3,1,4</choice_value_2>
+		<choice_value_3>1,4,3,2,5,0</choice_value_3>
+	</xmlManagerTest>
+	<xmlManagerTest>
+		<index>2</index>
+		<quest>노래를 흥얼거리며 가는데
+갑자기 누군가 말을 걸고, 길을 물어본다.
+누가 물어봤을까?</quest>
+		<choice_0>아이가 있는 부부</choice_0>
+		<choice_1>할머니</choice_1>
+		<choice_2>또래 친구</choice_2>
+		<choice_3>멋진 이성</choice_3>
+		<choice_img_0>test_select_03_01</choice_img_0>
+		<choice_img_1>test_select_03_02</choice_img_1>
+		<choice_img_2>test_select_03_03</choice_img_2>
+		<choice_img_3>test_select_03_04</choice_img_3>
+		<choice_value_0>4,1,2,3,3,2</choice_value_0>
+		<choice_value_1>5,0,3,2,2,3</choice_value_1>
+		<choice_value_2>1,4,2,3,2,3</choice_value_2>
+		<choice_value_3>0,5,3,2,3,2</choice_value_3>
+	</xmlManagerTest>
+	<xmlManagerTest>
+		<index>3</index>
+		<quest>드디어 약속 장소에 도착!
+그런데 아직 친구가 보이지 않는다.
+편하게 앉아서 기다리자. 어떤 자세가 좋을까?</quest>
+		<choice_0>꼿꼿한 정자세</choice_0>
+		<choice_1>다리 꼰 자세</choice_1>
+		<choice_2>양반다리</choice_2>
+		<choice_3>늘어진 자세</choice_3>
+		<choice_img_0>test_select_04_01</choice_img_0>
+		<choice_img_1>test_select_04_02</choice_img_1>
+		<choice_img_2>test_select_04_03</choice_img_2>
+		<choice_img_3>test_select_04_04</choice_img_3>
+		<choice_value_0>3,2,1,4,1,4</choice_value_0>
+		<choice_value_1>2,3,2,3,4,1</choice_value_1>
+		<choice_value_2>3,2,3,2,3,2</choice_value_2>
+		<choice_value_3>2,3,4,1,2,3</choice_value_3>
+	</xmlManagerTest>
+	<xmlManagerTest>
+		<index>4</index>
+		<quest>친구가 조금 늦는 것 같다.
+친구를 기다리며 우연히 바라본 창밖.
+지금 날씨는?</quest>
+		<choice_0>맑음</choice_0>
+		<choice_1>구름 가득</choice_1>
+		<choice_2>비</choice_2>
+		<choice_3>눈</choice_3>
+		<choice_img_0>test_select_05_01</choice_img_0>
+		<choice_img_1>test_select_05_02</choice_img_1>
+		<choice_img_2>test_select_05_03</choice_img_2>
+		<choice_img_3>test_select_05_04</choice_img_3>
+		<choice_value_0>3,2,3,2,3,2</choice_value_0>
+		<choice_value_1>2,3,4,1,2,3</choice_value_1>
+		<choice_value_2>2,3,2,3,1,4</choice_value_2>
+		<choice_value_3>3,2,1,4,4,1</choice_value_3>
+	</xmlManagerTest>
+	<!-- <xmlManagerTest>
+		<index>5</index>
+		<quest>6. 어떤 상황을 먼저 해결해야 할까?</quest>
+		<choice_0>1) 프라이팬 위에서 타고 있는 음식</choice_0>
+		<choice_1>2) 넘어져서 울고 있는 아이</choice_1>
+		<choice_2>3) 계속해서 울리는 전화기</choice_2>
+		<choice_3>4) 집을 난장판으로 만들고 있는 아이</choice_3>
+		<choice_img_0>NULL</choice_img_0>
+		<choice_img_1>NULL</choice_img_1>
+		<choice_img_2>NULL</choice_img_2>
+		<choice_img_3>NULL</choice_img_3>
+		<choice_value_0>0,5,3,2,3,2</choice_value_0>
+		<choice_value_1>5,0,2,3,3,2</choice_value_1>
+		<choice_value_2>1,4,2,3,2,3,</choice_value_2>
+		<choice_value_3>4,1,3,2,2,3</choice_value_3>
+	</xmlManagerTest> -->
+</ArrayOfDialogTable>

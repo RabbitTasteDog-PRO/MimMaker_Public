@@ -1,0 +1,330 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 125b9f6e6906d6e4897a443b3c12729c, type: 3}
+  m_Name: SettingAtlas
+  m_EditorClassIdentifier: 
+  material: {fileID: 2100000, guid: b9619d77e3e0d4449990c9223ec21430, type: 2}
+  mSprites:
+  - name: button_1
+    x: 372
+    y: 59
+    width: 248
+    height: 112
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 5
+    paddingRight: 3
+    paddingTop: 4
+    paddingBottom: 4
+  - name: button_2
+    x: 186
+    y: 172
+    width: 249
+    height: 112
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 5
+    paddingRight: 2
+    paddingTop: 5
+    paddingBottom: 3
+  - name: button_3
+    x: 223
+    y: 407
+    width: 201
+    height: 105
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 7
+    paddingRight: 7
+    paddingTop: 6
+    paddingBottom: 5
+  - name: button_close
+    x: 284
+    y: 347
+    width: 59
+    height: 59
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 3
+    paddingRight: 2
+    paddingTop: 3
+    paddingBottom: 2
+  - name: button_setting_1
+    x: 186
+    y: 118
+    width: 137
+    height: 53
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 3
+    paddingTop: 4
+    paddingBottom: 5
+  - name: button_setting_2
+    x: 223
+    y: 346
+    width: 60
+    height: 60
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 3
+    paddingTop: 4
+    paddingBottom: 2
+  - name: button_setting_3
+    x: 605
+    y: 9
+    width: 126
+    height: 49
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 5
+    paddingRight: 2
+    paddingTop: 3
+    paddingBottom: 5
+  - name: button_setting_4
+    x: 223
+    y: 289
+    width: 55
+    height: 56
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 3
+    paddingRight: 3
+    paddingTop: 2
+    paddingBottom: 2
+  - name: button_setting_5
+    x: 477
+    y: 10
+    width: 127
+    height: 48
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 3
+    paddingRight: 3
+    paddingTop: 5
+    paddingBottom: 4
+  - name: button_setting_6
+    x: 279
+    y: 289
+    width: 56
+    height: 56
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 2
+    paddingRight: 3
+    paddingTop: 2
+    paddingBottom: 2
+  - name: icon_1
+    x: 344
+    y: 363
+    width: 53
+    height: 43
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 3
+    paddingTop: 11
+    paddingBottom: 6
+  - name: icon_2
+    x: 324
+    y: 122
+    width: 42
+    height: 49
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 10
+    paddingRight: 8
+    paddingTop: 6
+    paddingBottom: 5
+  - name: icon_3
+    x: 391
+    y: 317
+    width: 45
+    height: 45
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 9
+    paddingRight: 6
+    paddingTop: 8
+    paddingBottom: 7
+  - name: icon_4
+    x: 336
+    y: 301
+    width: 54
+    height: 45
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 2
+    paddingTop: 8
+    paddingBottom: 7
+  - name: icon_5
+    x: 436
+    y: 223
+    width: 41
+    height: 47
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 10
+    paddingRight: 9
+    paddingTop: 5
+    paddingBottom: 8
+  - name: icon_6
+    x: 437
+    y: 319
+    width: 38
+    height: 47
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 11
+    paddingRight: 11
+    paddingTop: 6
+    paddingBottom: 7
+  - name: icon_setting
+    x: 436
+    y: 271
+    width: 44
+    height: 45
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 9
+    paddingRight: 7
+    paddingTop: 8
+    paddingBottom: 7
+  - name: line
+    x: 0
+    y: 4
+    width: 610
+    height: 4
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 9
+    paddingRight: 8
+    paddingTop: 9
+    paddingBottom: 8
+  - name: popup
+    x: 0
+    y: 285
+    width: 222
+    height: 227
+    borderLeft: 112
+    borderRight: 54
+    borderTop: 127
+    borderBottom: 70
+    paddingLeft: 8
+    paddingRight: 8
+    paddingTop: 9
+    paddingBottom: 7
+  - name: setting_line
+    x: 0
+    y: 25
+    width: 476
+    height: 4
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 11
+    paddingRight: 6
+    paddingTop: 12
+    paddingBottom: 9
+  - name: setting_title
+    x: 0
+    y: 30
+    width: 371
+    height: 70
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 6
+    paddingRight: 6
+    paddingTop: 7
+    paddingBottom: 6
+  - name: sound_0
+    x: 398
+    y: 367
+    width: 48
+    height: 39
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 7
+    paddingRight: 5
+    paddingTop: 8
+    paddingBottom: 7
+  - name: sound_1
+    x: 436
+    y: 186
+    width: 41
+    height: 36
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 7
+    paddingRight: 12
+    paddingTop: 11
+    paddingBottom: 7
+  - name: stting_popup
+    x: 0
+    y: 101
+    width: 185
+    height: 183
+    borderLeft: 67
+    borderRight: 63
+    borderTop: 90
+    borderBottom: 67
+    paddingLeft: 6
+    paddingRight: 6
+    paddingTop: 5
+    paddingBottom: 6
+  mPixelSize: 1
+  mReplacement: {fileID: 0}

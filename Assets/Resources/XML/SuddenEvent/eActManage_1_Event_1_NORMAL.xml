@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ArrayOfDialogTable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<xmlSudenEvent>
+		<index>0</index>
+		<event_title>어서오세요 고갱님</event_title>
+		<bgm>브금</bgm>
+		<sfx>효과음</sfx>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>이름</name>
+		<message>대사</message>
+		<choice_0>선택지_1</choice_0>
+		<choice_1>선택지_2</choice_1>
+		<choice_2>선택지_3</choice_2>
+		<stateKey_0>선택지 키값_0</stateKey_0>
+		<stateValue_0>선택지 가감치_0</stateValue_0>
+		<stateKey_1>선택지 키값_1</stateKey_1>
+		<stateValue_1>선택지 가감치_1</stateValue_1>
+		<stateKey_2>선택지 키값_2</stateKey_2>
+		<stateValue_2>선택지 가감치_2</stateValue_2>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>1</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>밈</name>
+		<ch_img>MiM</ch_img>
+		<message>오늘도 고생하셨습니다.. 
+으~ 근육통..</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>2</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>직원</name>
+		<ch_img>MASSAGE</ch_img>
+		<message>밈 회원님! 근육통이 심하시면
+이 마사지 오일을 발라보시겠어요?</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>3</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>직원</name>
+		<ch_img>MASSAGE</ch_img>
+		<message>근육통 완화에 효과가 
+있는 신상 제품이에요!</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>4</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>밈</name>
+		<ch_img>MiM</ch_img>
+		<message>네..? 괜찮은데..</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>5</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>직원</name>
+		<ch_img>MASSAGE</ch_img>
+		<message>에이~ 한번 발라보세요~ 
+피부도 매끈매끈해지고 붓기와 
+근육통 완화에 탁월한 제품이랍니다!</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>6</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>밈</name>
+		<ch_img>MiM</ch_img>
+		<message>그냥 주시는 거예요?</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>7</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>직원</name>
+		<ch_img>MASSAGE</ch_img>
+		<message>아뇨~ 그냥 드리긴 어렵고 특별 할인가에 모실게요! 
+단돈 3,000 코인!</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>8</index>
+		<type>1001</type>
+		<tag>0</tag>
+		<ch_img>MiM</ch_img>
+		<choice_0>설명해주신 성의도 있는데..
+하나 구입하자</choice_0>
+		<choice_1>싸긴 한데 필요가 없을 것 같아..
+거절하자.</choice_1>
+		<stateKey_0>eFACE,ePERSONALITY</stateKey_0>
+		<stateValue_0>-1,1</stateValue_0>
+		<stateKey_1>eKNOW</stateKey_1>
+		<stateValue_1>1</stateValue_1>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>9</index>
+		<type>1004</type>
+		<tag>1</tag>
+		<message>집에서 구입한 오일을 발라보는 밈.
+다음 날 온 몸에서 울긋불긋
+뾰루지가 나기 시작했고,
+강제로 피부과에 다녀야 했다.</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>10</index>
+		<type>1000</type>
+		<tag>1</tag>
+		<name>밈</name>
+		<ch_img>MiM</ch_img>
+		<message>이게 뭐야~ 
+마사지 오일 괜히 샀엉..</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>11</index>
+		<type>1002</type>
+		<tag>1</tag>
+		<message>CHOICE END</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>12</index>
+		<type>1004</type>
+		<tag>2</tag>
+		<message>며칠 뒤, 마사지 오일을 사용하고
+부작용이 일어난 소비자들이 오일 제작사에
+소송을 청구했다는 뉴스를 보게 된다.</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>13</index>
+		<type>1000</type>
+		<tag>2</tag>
+		<name>밈</name>
+		<ch_img>MiM</ch_img>
+		<message>어쩐지 너무 싸다 싶었더니..
+추출한 오일 성분이 발암 유발? 헉..</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>14</index>
+		<type>1002</type>
+		<tag>2</tag>
+		<message>CHOICE END</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>15</index>
+		<type>1003</type>
+		<tag>0</tag>
+		<message>EVENT_END</message>
+	</xmlSudenEvent>
+</ArrayOfDialogTable>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ArrayOfDialogTable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<xmlSudenEvent>
+		<index>0</index>
+		<event_title>부러우면 지는거다</event_title>
+		<bgm>브금</bgm>
+		<sfx>효과음</sfx>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>이름</name>
+		<message>대사</message>
+		<choice_0>선택지_1</choice_0>
+		<choice_1>선택지_2</choice_1>
+		<choice_2>선택지_3</choice_2>
+		<stateKey_0>선택지 키값_0</stateKey_0>
+		<stateValue_0>선택지 가감치_0</stateValue_0>
+		<stateKey_1>선택지 키값_1</stateKey_1>
+		<stateValue_1>선택지 가감치_1</stateValue_1>
+		<stateKey_2>선택지 키값_2</stateKey_2>
+		<stateValue_2>선택지 가감치_2</stateValue_2>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>1</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>MC</name>
+		<ch_img>MC</ch_img>
+		<message>오늘은 새로 데뷔한 걸그룹을 만나볼까요?
+귀여운 소녀들을 소개합니다~ 큐티걸즈!</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>2</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>큐티걸즈</name>
+		<ch_img>CUTIE_GIRLS</ch_img>
+		<message>안녕하세요! 큐티걸즈입니다!</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>3</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>밈</name>
+		<ch_img>MiM</ch_img>
+		<message>어?! 저 언니들 벌써 데뷔했나?
+같이 연습할 때가 엊그제 같은데..</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>4</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>밈</name>
+		<ch_img>MiM</ch_img>
+		<message>부럽네.. 이럴 때가 아니지!</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>5</index>
+		<type>1001</type>
+		<tag>0</tag>
+		<ch_img>MiM</ch_img>
+		<choice_0>축하한다고 연락해야겠다!</choice_0>
+		<choice_1>놀 때가 아니지! 
+나도 빨리 연습해야겠다.</choice_1>
+		<stateKey_0>eHUMOR,ePERSONALITY</stateKey_0>
+		<stateValue_0>-1,1</stateValue_0>
+		<stateKey_1>eACTING,eSINGING</stateKey_1>
+		<stateValue_1>1,1</stateValue_1>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>6</index>
+		<type>1004</type>
+		<tag>1</tag>
+		<message>문자를 보냈지만,
+데뷔 후 정신이 없어져서인지 
+언니들과 연락이 닿질 않았다.</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>7</index>
+		<type>1004</type>
+		<tag>1</tag>
+		<message>며칠 째 답장이 없는 휴대폰을 보며, 
+괜히 우울해지고 말았다.</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>8</index>
+		<type>1000</type>
+		<tag>1</tag>
+		<name>매니저</name>
+		<ch_img>MANAGER</ch_img>
+		<message>밈, 요새 무슨 일 있어요?
+며칠째 저기압인 것 같은데..</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>9</index>
+		<type>1002</type>
+		<tag>1</tag>
+		<message>CHOICE END</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>10</index>
+		<type>1004</type>
+		<tag>2</tag>
+		<message>연습의 동기부여가 
+그 어느때보다도 확실해졌다.</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>11</index>
+		<type>1000</type>
+		<tag>2</tag>
+		<name>밈</name>
+		<ch_img>MiM</ch_img>
+		<message>나도 꼭 스타가 되고 말거야!</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>12</index>
+		<type>1002</type>
+		<tag>2</tag>
+		<message>CHOICE END</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>13</index>
+		<type>1003</type>
+		<tag>0</tag>
+		<message>EVENT_END</message>
+	</xmlSudenEvent>
+</ArrayOfDialogTable>

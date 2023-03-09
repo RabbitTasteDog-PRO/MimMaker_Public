@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ArrayOfDialogTable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<xmlSudenEvent>
+		<index>0</index>
+		<event_title>방송국에서 온 사람들</event_title>
+		<bgm>브금</bgm>
+		<sfx>효과음</sfx>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>이름</name>
+		<message>대사</message>
+		<choice_0>선택지_1</choice_0>
+		<choice_1>선택지_2</choice_1>
+		<choice_2>선택지_3</choice_2>
+		<stateKey_0>선택지 키값_0</stateKey_0>
+		<stateValue_0>선택지 가감치_0</stateValue_0>
+		<stateKey_1>선택지 키값_1</stateKey_1>
+		<stateValue_1>선택지 가감치_1</stateValue_1>
+		<stateKey_2>선택지 키값_2</stateKey_2>
+		<stateValue_2>선택지 가감치_2</stateValue_2>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>1</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>밈</name>
+		<ch_img>MiM</ch_img>
+		<message>오늘도 공연 봐주셔서 감사합니다~!</message>
+		<stateKey_2>선택지 키값_2</stateKey_2>
+		<stateValue_2>선택지 가감치_2</stateValue_2>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>2</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>방송국 PD</name>
+		<ch_img>PD_NP</ch_img>
+		<message>안녕하십니까? 공연 잘 봤습니다.</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>3</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>밈</name>
+		<ch_img>MiM</ch_img>
+		<message>응? 누구세요?</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>4</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>방송국 PD</name>
+		<ch_img>PD_NP</ch_img>
+		<message>아! 저희는 OBS에서 왔습니다. 
+최근 새로운 프로그램을 준비 중인데, 
+밈씨의 이미지가 딱인 것 같아서요.</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>5</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>밈</name>
+		<ch_img>MiM</ch_img>
+		<message>새로운 프로그램이요?</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>6</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>방송국 PD</name>
+		<ch_img>PD_NP</ch_img>
+		<message>네! 혹시 저희 프로그램에 출연해보시지 않겠어요?</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>7</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>밈</name>
+		<ch_img>MiM</ch_img>
+		<message>어떤 프로그램인데요?</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>8</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>방송국 PD</name>
+		<ch_img>PD_NP</ch_img>
+		<message>거리에서 공연하는 유명한 일반인들이 모셔
+콘서트를 여는 프로그램이에요.
+PD인 제가 직접 섭외를 담당하고 있죠!</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>9</index>
+		<type>1001</type>
+		<tag>0</tag>
+		<ch_img>MiM</ch_img>
+		<choice_0>좋은 기회인 것 같네요. 
+출연할게요!</choice_0>
+		<choice_1>죄송해요. 혼자 결정하긴 
+어려울 것 같아요.</choice_1>
+		<stateKey_0>eGOLD,ePERSONALITY</stateKey_0>
+		<stateValue_0>-10000,-1</stateValue_0>
+		<stateKey_1>eAWARENESS,ePERSONALITY</stateKey_1>
+		<stateValue_1>1,1</stateValue_1>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>10</index>
+		<type>1004</type>
+		<tag>1</tag>
+		<message>밈은 소속사와 합의되지 않은 계약으로 소속사
+내에서 징계를 받게 된다.</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>11</index>
+		<type>1000</type>
+		<tag>1</tag>
+		<name>매니저</name>
+		<ch_img>MANAGAER</ch_img>
+		<message>그러게 혼자 막 결정하면 어떡해요~</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>12</index>
+		<type>1002</type>
+		<tag>1</tag>
+		<message>CHOICE END</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>13</index>
+		<type>1004</type>
+		<tag>2</tag>
+		<message>그 자리에서는 거절했지만, 따로 연락처를 받아둔 밈.
+소속사와의 논의 끝에 출연을 결심하게 된다.</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>14</index>
+		<type>1000</type>
+		<tag>2</tag>
+		<name>매니저</name>
+		<ch_img>MANAGAER</ch_img>
+		<message>그런데.. 일반인 중에 유명한 사람이면
+이미 유명인 아니에요?</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>15</index>
+		<type>1000</type>
+		<tag>2</tag>
+		<name>밈</name>
+		<ch_img>MiM</ch_img>
+		<message>그.. 그러게요...?</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>16</index>
+		<type>1002</type>
+		<tag>2</tag>
+		<message>CHOICE END</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>17</index>
+		<type>1003</type>
+		<tag>0</tag>
+		<message>EVENT_END</message>
+	</xmlSudenEvent>
+</ArrayOfDialogTable>

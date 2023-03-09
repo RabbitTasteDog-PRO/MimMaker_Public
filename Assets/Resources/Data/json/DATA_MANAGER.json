@@ -1,0 +1,58 @@
+{
+	"manager": [
+		{
+			"manager_key": "MANAGER_A",
+			"manager_name": "#MANAGER",
+			"manager_skill": "SKILL_A",
+			"manager_skill_desc": "eSKILL_A",
+			"manager_img": "character_manager_a_180x280",
+			"manager_personality": "PERSOLANLITY_TYPE_A",
+			"manager_desc": "eMANAGER_A_DESC"
+		},
+		{
+			"manager_key": "MANAGER_B",
+			"manager_name": "#MANAGER",
+			"manager_skill": "SKILL_B",
+			"manager_skill_desc": "eSKILL_B",
+			"manager_img": "character_manager_a_180x280",
+			"manager_personality": "PERSOLANLITY_TYPE_B",
+			"manager_desc": "eMANAGER_B_DESC"
+		},
+		{
+			"manager_key": "MANAGER_C",
+			"manager_name": "#MANAGER",
+			"manager_skill": "SKILL_C",
+			"manager_skill_desc": "eSKILL_C",
+			"manager_img": "character_manager_a_180x280",
+			"manager_personality": "PERSOLANLITY_TYPE_C",
+			"manager_desc": "eMANAGER_C_DESC"
+		},
+		{
+			"manager_key": "MANAGER_D",
+			"manager_name": "#MANAGER",
+			"manager_skill": "SKILL_D",
+			"manager_skill_desc": "eSKILL_D",
+			"manager_img": "character_manager_a_180x280",
+			"manager_personality": "PERSOLANLITY_TYPE_D",
+			"manager_desc": "eMANAGER_D_DESC"
+		},
+		{
+			"manager_key": "MANAGER_E",
+			"manager_name": "#MANAGER",
+			"manager_skill": "SKILL_E",
+			"manager_skill_desc": "eSKILL_E",
+			"manager_img": "character_manager_a_180x280",
+			"manager_personality": "PERSOLANLITY_TYPE_E",
+			"manager_desc": "eMANAGER_E_DESC"
+		},
+		{
+			"manager_key": "MANAGER_F",
+			"manager_name": "#MANAGER",
+			"manager_skill": "SKILL_F",
+			"manager_skill_desc": "eSKILL_F",
+			"manager_img": "character_manager_a_180x280",
+			"manager_personality": "PERSOLANLITY_TYPE_F",
+			"manager_desc": "eMANAGER_F_DESC"
+		}
+	]
+}

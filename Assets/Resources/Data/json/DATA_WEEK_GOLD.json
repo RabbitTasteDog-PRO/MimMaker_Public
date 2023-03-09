@@ -1,0 +1,464 @@
+{
+	"weekgold": [
+		{
+			"index": 0,
+			"gold": 500,
+			"desc": "시작 - 주마다 50 증가"
+		},
+		{
+			"index": 1,
+			"gold": 550,
+			"desc": 0
+		},
+		{
+			"index": 2,
+			"gold": 600,
+			"desc": 0
+		},
+		{
+			"index": 3,
+			"gold": 650,
+			"desc": 0
+		},
+		{
+			"index": 4,
+			"gold": 700,
+			"desc": 0
+		},
+		{
+			"index": 5,
+			"gold": 750,
+			"desc": 0
+		},
+		{
+			"index": 6,
+			"gold": 800,
+			"desc": "엔딩 - 새로하기 시 기본 수익금 200 증가"
+		},
+		{
+			"index": 7,
+			"gold": 850,
+			"desc": "시작 - 주마다 100 증가"
+		},
+		{
+			"index": 8,
+			"gold": 900,
+			"desc": 0
+		},
+		{
+			"index": 9,
+			"gold": 950,
+			"desc": 0
+		},
+		{
+			"index": 10,
+			"gold": 1000,
+			"desc": 0
+		},
+		{
+			"index": 11,
+			"gold": 1050,
+			"desc": 0
+		},
+		{
+			"index": 12,
+			"gold": 1100,
+			"desc": 0
+		},
+		{
+			"index": 13,
+			"gold": 1150,
+			"desc": "엔딩 - 새로하기 시 기본 수익금 400 증가"
+		},
+		{
+			"index": 14,
+			"gold": 1200,
+			"desc": "시작 - 주마다 150 증가"
+		},
+		{
+			"index": 15,
+			"gold": 1250,
+			"desc": 0
+		},
+		{
+			"index": 16,
+			"gold": 1300,
+			"desc": 0
+		},
+		{
+			"index": 17,
+			"gold": 1350,
+			"desc": 0
+		},
+		{
+			"index": 18,
+			"gold": 1400,
+			"desc": 0
+		},
+		{
+			"index": 19,
+			"gold": 1450,
+			"desc": 0
+		},
+		{
+			"index": 20,
+			"gold": 1500,
+			"desc": "엔딩 - 새로하기 시 기본 수익금 600 증가"
+		},
+		{
+			"index": 21,
+			"gold": 1550,
+			"desc": "시작 - 주마다 200 증가"
+		},
+		{
+			"index": 22,
+			"gold": 1600,
+			"desc": 0
+		},
+		{
+			"index": 23,
+			"gold": 1650,
+			"desc": 0
+		},
+		{
+			"index": 24,
+			"gold": 1700,
+			"desc": 0
+		},
+		{
+			"index": 25,
+			"gold": 1750,
+			"desc": 0
+		},
+		{
+			"index": 26,
+			"gold": 1800,
+			"desc": 0
+		},
+		{
+			"index": 27,
+			"gold": 1850,
+			"desc": "엔딩 - 새로하기 시 기본 수익금 800 증가"
+		},
+		{
+			"index": 28,
+			"gold": 1900,
+			"desc": "시작 - 주마다 250 증가"
+		},
+		{
+			"index": 29,
+			"gold": 1950,
+			"desc": 0
+		},
+		{
+			"index": 30,
+			"gold": 2000,
+			"desc": 0
+		},
+		{
+			"index": 31,
+			"gold": 2050,
+			"desc": 0
+		},
+		{
+			"index": 32,
+			"gold": 2100,
+			"desc": 0
+		},
+		{
+			"index": 33,
+			"gold": 2150,
+			"desc": 0
+		},
+		{
+			"index": 34,
+			"gold": 2200,
+			"desc": "엔딩 - 새로하기 시 기본 수익금 1,000 증가"
+		},
+		{
+			"index": 35,
+			"gold": 2250,
+			"desc": "시작 - 주마다 300 증가"
+		},
+		{
+			"index": 36,
+			"gold": 2300,
+			"desc": 0
+		},
+		{
+			"index": 37,
+			"gold": 2350,
+			"desc": 0
+		},
+		{
+			"index": 38,
+			"gold": 2400,
+			"desc": 0
+		},
+		{
+			"index": 39,
+			"gold": 2450,
+			"desc": 0
+		},
+		{
+			"index": 40,
+			"gold": 2500,
+			"desc": 0
+		},
+		{
+			"index": 41,
+			"gold": 2550,
+			"desc": "엔딩 - 새로하기 시 기본 수익금 1,200 증가"
+		},
+		{
+			"index": 42,
+			"gold": 2600,
+			"desc": "시작 - 주마다 350 증가"
+		},
+		{
+			"index": 43,
+			"gold": 2650,
+			"desc": 0
+		},
+		{
+			"index": 44,
+			"gold": 2700,
+			"desc": 0
+		},
+		{
+			"index": 45,
+			"gold": 2750,
+			"desc": 0
+		},
+		{
+			"index": 46,
+			"gold": 2800,
+			"desc": 0
+		},
+		{
+			"index": 47,
+			"gold": 2850,
+			"desc": 0
+		},
+		{
+			"index": 48,
+			"gold": 2900,
+			"desc": "엔딩 - 새로하기 시 기본 수익금 1,400 증가"
+		},
+		{
+			"index": 49,
+			"gold": 2950,
+			"desc": "시작 - 주마다 400 증가"
+		},
+		{
+			"index": 50,
+			"gold": 3000,
+			"desc": 0
+		},
+		{
+			"index": 51,
+			"gold": 3050,
+			"desc": 0
+		},
+		{
+			"index": 52,
+			"gold": 3100,
+			"desc": 0
+		},
+		{
+			"index": 53,
+			"gold": 3150,
+			"desc": 0
+		},
+		{
+			"index": 54,
+			"gold": 3200,
+			"desc": 0
+		},
+		{
+			"index": 55,
+			"gold": 3250,
+			"desc": "엔딩 - 새로하기 시 기본 수익금 1,600 증가"
+		},
+		{
+			"index": 56,
+			"gold": 3300,
+			"desc": "시작 - 주마다 450 증가"
+		},
+		{
+			"index": 57,
+			"gold": 3350,
+			"desc": 0
+		},
+		{
+			"index": 58,
+			"gold": 3400,
+			"desc": 0
+		},
+		{
+			"index": 59,
+			"gold": 3450,
+			"desc": 0
+		},
+		{
+			"index": 60,
+			"gold": 3500,
+			"desc": 0
+		},
+		{
+			"index": 61,
+			"gold": 3550,
+			"desc": 0
+		},
+		{
+			"index": 62,
+			"gold": 3600,
+			"desc": "엔딩 - 새로하기 시 기본 수익금 1,800 증가"
+		},
+		{
+			"index": 63,
+			"gold": 3650,
+			"desc": "시작 - 주마다 500 증가"
+		},
+		{
+			"index": 64,
+			"gold": 3700,
+			"desc": 0
+		},
+		{
+			"index": 65,
+			"gold": 3750,
+			"desc": 0
+		},
+		{
+			"index": 66,
+			"gold": 3800,
+			"desc": 0
+		},
+		{
+			"index": 67,
+			"gold": 3850,
+			"desc": 0
+		},
+		{
+			"index": 68,
+			"gold": 3900,
+			"desc": 0
+		},
+		{
+			"index": 69,
+			"gold": 3950,
+			"desc": "엔딩 - 새로하기 시 기본 수익금 2,000 증가"
+		},
+		{
+			"index": 0,
+			"gold": 4000,
+			"desc": 0
+		},
+		{
+			"index": 0,
+			"gold": 4050,
+			"desc": 0
+		},
+		{
+			"index": 0,
+			"gold": 4100,
+			"desc": 0
+		},
+		{
+			"index": 0,
+			"gold": 4150,
+			"desc": 0
+		},
+		{
+			"index": 0,
+			"gold": 4200,
+			"desc": 0
+		},
+		{
+			"index": 0,
+			"gold": 4250,
+			"desc": 0
+		},
+		{
+			"index": 0,
+			"gold": 4300,
+			"desc": 0
+		},
+		{
+			"index": 0,
+			"gold": 4350,
+			"desc": 0
+		},
+		{
+			"index": 0,
+			"gold": 4400,
+			"desc": 0
+		},
+		{
+			"index": 0,
+			"gold": 4450,
+			"desc": 0
+		},
+		{
+			"index": 0,
+			"gold": 4500,
+			"desc": 0
+		},
+		{
+			"index": 0,
+			"gold": 4550,
+			"desc": 0
+		},
+		{
+			"index": 0,
+			"gold": 4600,
+			"desc": 0
+		},
+		{
+			"index": 0,
+			"gold": 4650,
+			"desc": 0
+		},
+		{
+			"index": 0,
+			"gold": 4700,
+			"desc": 0
+		},
+		{
+			"index": 0,
+			"gold": 4750,
+			"desc": 0
+		},
+		{
+			"index": 0,
+			"gold": 4800,
+			"desc": 0
+		},
+		{
+			"index": 0,
+			"gold": 4850,
+			"desc": 0
+		},
+		{
+			"index": 0,
+			"gold": 4900,
+			"desc": 0
+		},
+		{
+			"index": 0,
+			"gold": 4950,
+			"desc": 0
+		},
+		{
+			"index": 0,
+			"gold": 5000,
+			"desc": 0
+		},
+		{
+			"index": 0,
+			"gold": 5000,
+			"desc": 0
+		}
+	]
+}

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ArrayOfDialogTable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<xmlSudenEvent>
+		<index>0</index>
+		<event_title>배움엔 끝이 없다.</event_title>
+		<bgm>브금</bgm>
+		<sfx>효과음</sfx>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>이름</name>
+		<ch_img>이미지</ch_img>
+		<message>대사</message>
+		<choice_0>선택지_1</choice_0>
+		<choice_1>선택지_2</choice_1>
+		<choice_2>선택지_3</choice_2>
+		<stateKey_0>선택지 키값_0</stateKey_0>
+		<stateValue_0>선택지 가감치_0</stateValue_0>
+		<stateKey_1>선택지 키값_1</stateKey_1>
+		<stateValue_1>선택지 가감치_1</stateValue_1>
+		<stateKey_2>선택지 키값_2</stateKey_2>
+		<stateValue_2>선택지 가감치_2</stateValue_2>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>1</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>밈</name>
+		<ch_img>MiM</ch_img>
+		<message>매니저님! 저기 경연 준비 중인 팀 보이세요?</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>2</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>매니저</name>
+		<ch_img>MANAGER</ch_img>
+		<message>네. 근데 왜요?</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>3</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>밈</name>
+		<ch_img>MiM</ch_img>
+		<message>정말 열정적이지 않아요?
+저도 한번 배워보고 싶다는 생각이 드네요~</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>4</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>매니저</name>
+		<ch_img>MANAGER</ch_img>
+		<message>그래요? 그런데 저거 무슨 댄스인지는 아세요?</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>5</index>
+		<type>1001</type>
+		<tag>0</tag>
+		<ch_img>MiM</ch_img>
+		<choice_0>에어로빅이잖아요!</choice_0>
+		<choice_1>스포츠 댄스잖아요~</choice_1>
+		<choice_2>스트릿 댄스잖아요!</choice_2>
+		<stateKey_0>eFLEX</stateKey_0>
+		<stateValue_0>1</stateValue_0>
+		<stateKey_1>eKNOW</stateKey_1>
+		<stateValue_1>1</stateValue_1>
+		<stateKey_2>eCHARACTER</stateKey_2>
+		<stateValue_2>1</stateValue_2>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>6</index>
+		<type>1004</type>
+		<tag>1</tag>
+		<message>결국 에어로빅 수업을 들으러 간 밈은
+동네 아줌마들만 잔뜩 친구로 만들게 되었다.</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>7</index>
+		<type>1000</type>
+		<tag>1</tag>
+		<name>매니저</name>
+		<ch_img>MANAGER</ch_img>
+		<message>수업을 들으러 간 건지.. 
+수다를 떨러 간 건지..</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>8</index>
+		<type>1002</type>
+		<tag>1</tag>
+		<message>CHOICE END</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>9</index>
+		<type>1004</type>
+		<tag>2</tag>
+		<message>난생처음 배워보는 스포츠 댄스.
+뭔가 어색한 밈 때문에, 파트너로 뽑힌 
+매니저만 죽어라 고생하고 있다.</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>10</index>
+		<type>1000</type>
+		<tag>2</tag>
+		<name>매니저</name>
+		<ch_img>MANAGER</ch_img>
+		<message>아얏! 또 제 발 밟았어요 밈..</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>11</index>
+		<type>1002</type>
+		<tag>2</tag>
+		<message>CHOICE END</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>12</index>
+		<type>1004</type>
+		<tag>3</tag>
+		<message>스트릿 댄스만의 자유로움을 표현하려던 밈.
+하지만 자유가 아닌 
+근육의 억압이 느껴지는 건 왜일까?</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>13</index>
+		<type>1000</type>
+		<tag>3</tag>
+		<name>밈</name>
+		<ch_img>MiM</ch_img>
+		<message>매니저님! 보이세요? 
+이게 바로 거리의 자유라구요!</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>14</index>
+		<type>1000</type>
+		<tag>3</tag>
+		<name>매니저</name>
+		<ch_img>MANAGER</ch_img>
+		<message>네.. 하하..  
+완전 거리를 뒤집어 놓으셨네요.</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>15</index>
+		<type>1002</type>
+		<tag>3</tag>
+		<message>CHOICE END</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>16</index>
+		<type>1003</type>
+		<tag>0</tag>
+		<message>EVENT_END</message>
+	</xmlSudenEvent>
+</ArrayOfDialogTable>

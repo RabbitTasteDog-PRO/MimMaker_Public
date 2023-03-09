@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ArrayOfDialogTable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<xmlSudenEvent>
+		<index>0</index>
+		<event_title>급만남</event_title>
+		<bgm>브금</bgm>
+		<sfx>효과음</sfx>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>이름</name>
+		<message>대사</message>
+		<choice_0>선택지_1</choice_0>
+		<choice_1>선택지_2</choice_1>
+		<choice_2>선택지_3</choice_2>
+		<stateKey_0>선택지 키값_0</stateKey_0>
+		<stateValue_0>선택지 가감치_0</stateValue_0>
+		<stateKey_1>선택지 키값_1</stateKey_1>
+		<stateValue_1>선택지 가감치_1</stateValue_1>
+		<stateKey_2>선택지 키값_2</stateKey_2>
+		<stateValue_2>선택지 가감치_2</stateValue_2>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>1</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>휴대폰</name>
+		<ch_img>PHONE</ch_img>
+		<message>따르릉~</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>2</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>밈</name>
+		<ch_img>MiM</ch_img>
+		<message>응? 누구지?
+여보세요?</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>3</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>친구</name>
+		<ch_img>FRIEND_PHONE</ch_img>
+		<message>밈! 잘 지냈어? 바빠? 뭐하고 있어? 밥은?</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>4</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>밈</name>
+		<ch_img>MiM</ch_img>
+		<message>… 하나만 물어봐줄래..?</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>5</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>친구</name>
+		<ch_img>FRIEND_PHONE</ch_img>
+		<message>헤헷~ 마음이 급해서.
+나 너희집 근처인데, 괜찮으면 지금 만날래?</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>6</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>밈</name>
+		<ch_img>MiM</ch_img>
+		<message>갑작스럽긴 한데.. 좋아!
+어디에서 볼까?</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>7</index>
+		<type>1001</type>
+		<tag>0</tag>
+		<ch_img>FRIEND_PHONE</ch_img>
+		<choice_0>내가 너희 집으로 갈게!</choice_0>
+		<choice_1>여기 너희 집 앞 카페야!</choice_1>
+		<choice_2>번화가쪽 땡땡 사거리로 올래?</choice_2>
+		<stateKey_0>eFLEX</stateKey_0>
+		<stateValue_0>2</stateValue_0>
+		<stateKey_1>eCHARACTER</stateKey_1>
+		<stateValue_1>2</stateValue_1>
+		<stateKey_2>eFACE</stateKey_2>
+		<stateValue_2>2</stateValue_2>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>8</index>
+		<type>1004</type>
+		<tag>1</tag>
+		<message>화장을 할 필요도, 의상에 신경쓸 필요도 없이
+집으로 친구를 초대한 밈.
+역시 집이 최고다!</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>9</index>
+		<type>1000</type>
+		<tag>1</tag>
+		<name>친구</name>
+		<ch_img>FRIEND_LTNS</ch_img>
+		<message>아! 어머님, 안녕하세요!
+밈 친구예요!</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>10</index>
+		<type>1000</type>
+		<tag>1</tag>
+		<name>밈</name>
+		<ch_img>MiM</ch_img>
+		<message>… 나야..</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>11</index>
+		<type>1002</type>
+		<tag>1</tag>
+		<message>CHOICE END</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>12</index>
+		<type>1004</type>
+		<tag>2</tag>
+		<message>잠옷과 외출복 사이 어딘가의 스타일로
+외출한 밈. 난감한 패션에 친구는 당황했지만, 
+금세 수다 삼매경에 빠진다.</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>13</index>
+		<type>1000</type>
+		<tag>2</tag>
+		<name>친구</name>
+		<ch_img>FRIEND_LTNS</ch_img>
+		<message>밈, 그런데 지금 잠옷 입고 나온거야?</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>14</index>
+		<type>1002</type>
+		<tag>2</tag>
+		<message>CHOICE END</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>15</index>
+		<type>1004</type>
+		<tag>3</tag>
+		<message>밈은 번화가라는 말에 한숨을 쉬며 화장을 
+하기 시작했다. 잠시 후 풀메이크업 상태가 된 
+밈은 친구를 만나기 위해 집을 나섰다.</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>16</index>
+		<type>1000</type>
+		<tag>3</tag>
+		<name>밈</name>
+		<ch_img>MiM</ch_img>
+		<message>막상 만나서 수다떨다 보니 재밌네~!</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>17</index>
+		<type>1002</type>
+		<tag>3</tag>
+		<message>CHOICE END</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>18</index>
+		<type>1003</type>
+		<tag>0</tag>
+		<message>EVENT_END</message>
+	</xmlSudenEvent>
+</ArrayOfDialogTable>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ArrayOfDialogTable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<xmlSudenEvent>
+		<index>0</index>
+		<event_title>영상 촬영</event_title>
+		<bgm>브금</bgm>
+		<sfx>효과음</sfx>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>이름</name>
+		<message>대사</message>
+		<choice_0>선택지_1</choice_0>
+		<choice_1>선택지_2</choice_1>
+		<choice_2>선택지_3</choice_2>
+		<stateKey_0>선택지 키값_0</stateKey_0>
+		<stateValue_0>선택지 가감치_0</stateValue_0>
+		<stateKey_1>선택지 키값_1</stateKey_1>
+		<stateValue_1>선택지 가감치_1</stateValue_1>
+		<stateKey_2>선택지 키값_2</stateKey_2>
+		<stateValue_2>선택지 가감치_2</stateValue_2>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>1</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>매니저</name>
+		<ch_img>MANAGER</ch_img>
+		<message>밈! 요새 어린 친구들  사이에서
+톡톡이 유행이래요~</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>2</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>밈</name>
+		<ch_img>MiM</ch_img>
+		<message>매니저님! 그걸 이제 아신거예요?!
+전 이미 인싸라구욧~</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>3</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>매니저</name>
+		<ch_img>MANAGER</ch_img>
+		<message>아.. 네.. 하하..</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>4</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>밈</name>
+		<ch_img>MiM</ch_img>
+		<message>그렇지 않아도 톡톡에 올릴 영상을
+찍으려고 하는데, 어떤 영상이 좋을까요?</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>5</index>
+		<type>1001</type>
+		<tag>0</tag>
+		<ch_img>MANAGER</ch_img>
+		<choice_0>화려한 필터가 많던데,
+예쁜척하는 영상 어때요?</choice_0>
+		<choice_1>손으로 추는 댄스 어때요?
+어렵지 않을 것 같아요!</choice_1>
+		<choice_2>보니까 립싱크 영상이 재밌더라구요~
+립싱크 어때요?</choice_2>
+		<stateKey_0>eFACE</stateKey_0>
+		<stateValue_0>2</stateValue_0>
+		<stateKey_1>eFLEX</stateKey_1>
+		<stateValue_1>2</stateValue_1>
+		<stateKey_2>eACTING</stateKey_2>
+		<stateValue_2>2</stateValue_2>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>6</index>
+		<type>1004</type>
+		<tag>1</tag>
+		<message>온갖 인기 필터를 모두 사용한 후에야 만족한 밈.
+다만 과도한 예쁜척 때문에 보는 사람들이
+불편함을 느꼈다고 한다.</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>7</index>
+		<type>1000</type>
+		<tag>1</tag>
+		<name>밈</name>
+		<ch_img>MiM</ch_img>
+		<message>역시 난 너무 예쁜 것 같아~♡</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>8</index>
+		<type>1000</type>
+		<tag>1</tag>
+		<name>매니저</name>
+		<ch_img>MANAGER</ch_img>
+		<message>하아..</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>9</index>
+		<type>1002</type>
+		<tag>1</tag>
+		<message>CHOICE END</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>10</index>
+		<type>1004</type>
+		<tag>2</tag>
+		<message>쉬워보여 시작한 손댄스. 하지만 생각보다
+쉽지 않았고, 사람들은 손댄스가 아닌 수인이라며, 
+야생의 주술사가 나타났다고 놀렸다.</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>11</index>
+		<type>1000</type>
+		<tag>2</tag>
+		<name>밈</name>
+		<ch_img>MiM</ch_img>
+		<message>제 손가락이 짧아서 안되는걸까요..? ㅠㅠ</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>12</index>
+		<type>1002</type>
+		<tag>2</tag>
+		<message>CHOICE END</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>13</index>
+		<type>1004</type>
+		<tag>3</tag>
+		<message>그 동안 열심히 풀어둔 안면 근육이 제 역할을 했다. 
+이미 마스터한 표정 연기 덕분에 큰 인기를 끌었다.</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>14</index>
+		<type>1000</type>
+		<tag>3</tag>
+		<name>매니저</name>
+		<ch_img>MANAGER</ch_img>
+		<message>역시 표정 연기 하나는 일품이네요~!
+엄지척!</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>15</index>
+		<type>1002</type>
+		<tag>3</tag>
+		<message>CHOICE END</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>16</index>
+		<type>1003</type>
+		<tag>0</tag>
+		<message>EVENT_END</message>
+	</xmlSudenEvent>
+</ArrayOfDialogTable>

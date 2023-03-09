@@ -1,0 +1,268 @@
+{
+	"ending": [
+		{
+			"index": 0,
+			"endNum": "NO_1",
+			"endintType": "ALL",
+			"endTitle": "NO_1",
+			"endImage": "NO_0",
+			"endFile": "ENDING_FILE_NO_1"
+		},
+		{
+			"index": 1,
+			"endNum": "NO_2",
+			"endintType": "NORMAL",
+			"endTitle": "NO_2",
+			"endImage": "NO_1",
+			"endFile": "ENDING_FILE_NO_2"
+		},
+		{
+			"index": 2,
+			"endNum": "NO_3",
+			"endintType": "NORMAL",
+			"endTitle": "NO_3",
+			"endImage": "NO_2",
+			"endFile": "ENDING_FILE_NO_3"
+		},
+		{
+			"index": 3,
+			"endNum": "NO_4",
+			"endintType": "NORMAL",
+			"endTitle": "NO_4",
+			"endImage": "NO_3",
+			"endFile": "ENDING_FILE_NO_4"
+		},
+		{
+			"index": 4,
+			"endNum": "NO_5",
+			"endintType": "NORMAL",
+			"endTitle": "NO_5",
+			"endImage": "NO_4",
+			"endFile": "ENDING_FILE_NO_5"
+		},
+		{
+			"index": 5,
+			"endNum": "NO_6",
+			"endintType": "NORMAL",
+			"endTitle": "NO_6",
+			"endImage": "NO_5",
+			"endFile": "ENDING_FILE_NO_6"
+		},
+		{
+			"index": 6,
+			"endNum": "NO_7",
+			"endintType": "NORMAL",
+			"endTitle": "NO_7",
+			"endImage": "NO_6",
+			"endFile": "ENDING_FILE_NO_7"
+		},
+		{
+			"index": 7,
+			"endNum": "NO_8",
+			"endintType": "NORMAL",
+			"endTitle": "NO_8",
+			"endImage": "NO_7",
+			"endFile": "ENDING_FILE_NO_8"
+		},
+		{
+			"index": 8,
+			"endNum": "NO_9",
+			"endintType": "NORMAL",
+			"endTitle": "NO_9",
+			"endImage": "NO_8",
+			"endFile": "ENDING_FILE_NO_9"
+		},
+		{
+			"index": 9,
+			"endNum": "NO_10",
+			"endintType": "NORMAL",
+			"endTitle": "NO_10",
+			"endImage": "NO_9",
+			"endFile": "ENDING_FILE_NO_10"
+		},
+		{
+			"index": 10,
+			"endNum": "NO_11",
+			"endintType": "NORMAL",
+			"endTitle": "NO_11",
+			"endImage": "NO_10",
+			"endFile": "ENDING_FILE_NO_11"
+		},
+		{
+			"index": 11,
+			"endNum": "NO_12",
+			"endintType": "NORMAL",
+			"endTitle": "NO_12",
+			"endImage": "NO_11",
+			"endFile": "ENDING_FILE_NO_12"
+		},
+		{
+			"index": 12,
+			"endNum": "NO_13",
+			"endintType": "NORMAL",
+			"endTitle": "NO_13",
+			"endImage": "NO_12",
+			"endFile": "ENDING_FILE_NO_13"
+		},
+		{
+			"index": 13,
+			"endNum": "NO_14",
+			"endintType": "NORMAL",
+			"endTitle": "NO_14",
+			"endImage": "NO_13",
+			"endFile": "ENDING_FILE_NO_14"
+		},
+		{
+			"index": 14,
+			"endNum": "NO_15",
+			"endintType": "NORMAL",
+			"endTitle": "NO_15",
+			"endImage": "NO_14",
+			"endFile": "ENDING_FILE_NO_15"
+		},
+		{
+			"index": 15,
+			"endNum": "NO_16",
+			"endintType": "NORMAL",
+			"endTitle": "NO_16",
+			"endImage": "NO_15",
+			"endFile": "ENDING_FILE_NO_16"
+		},
+		{
+			"index": 16,
+			"endNum": "NO_17",
+			"endintType": "NORMAL",
+			"endTitle": "NO_17",
+			"endImage": "NO_16",
+			"endFile": "ENDING_FILE_NO_17"
+		},
+		{
+			"index": 17,
+			"endNum": "NO_18",
+			"endintType": "STAR",
+			"endTitle": "NO_18",
+			"endImage": "NO_17",
+			"endFile": "ENDING_FILE_NO_18"
+		},
+		{
+			"index": 18,
+			"endNum": "NO_19",
+			"endintType": "STAR",
+			"endTitle": "NO_19",
+			"endImage": "NO_18",
+			"endFile": "ENDING_FILE_NO_19"
+		},
+		{
+			"index": 19,
+			"endNum": "NO_20",
+			"endintType": "STAR",
+			"endTitle": "NO_20",
+			"endImage": "NO_19",
+			"endFile": "ENDING_FILE_NO_20"
+		},
+		{
+			"index": 20,
+			"endNum": "NO_21",
+			"endintType": "STAR",
+			"endTitle": "NO_21",
+			"endImage": "NO_20",
+			"endFile": "ENDING_FILE_NO_21"
+		},
+		{
+			"index": 21,
+			"endNum": "NO_22",
+			"endintType": "STAR",
+			"endTitle": "NO_22",
+			"endImage": "NO_21",
+			"endFile": "ENDING_FILE_NO_22"
+		},
+		{
+			"index": 22,
+			"endNum": "NO_23",
+			"endintType": "STAR",
+			"endTitle": "NO_23",
+			"endImage": "NO_22",
+			"endFile": "ENDING_FILE_NO_23"
+		},
+		{
+			"index": 23,
+			"endNum": "NO_24",
+			"endintType": "STAR",
+			"endTitle": "NO_24",
+			"endImage": "NO_23",
+			"endFile": "ENDING_FILE_NO_24"
+		},
+		{
+			"index": 24,
+			"endNum": "NO_25",
+			"endintType": "STAR",
+			"endTitle": "NO_25",
+			"endImage": "NO_24",
+			"endFile": "ENDING_FILE_NO_25"
+		},
+		{
+			"index": 25,
+			"endNum": "NO_26",
+			"endintType": "STAR",
+			"endTitle": "NO_26",
+			"endImage": "NO_25",
+			"endFile": "ENDING_FILE_NO_26"
+		},
+		{
+			"index": 26,
+			"endNum": "NO_27",
+			"endintType": "STAR",
+			"endTitle": "NO_27",
+			"endImage": "NO_26",
+			"endFile": "ENDING_FILE_NO_27"
+		},
+		{
+			"index": 27,
+			"endNum": "NO_28",
+			"endintType": "STAR",
+			"endTitle": "NO_28",
+			"endImage": "NO_27",
+			"endFile": "ENDING_FILE_NO_28"
+		},
+		{
+			"index": 28,
+			"endNum": "NO_29",
+			"endintType": "STAR",
+			"endTitle": "NO_29",
+			"endImage": "NO_28",
+			"endFile": "ENDING_FILE_NO_29"
+		},
+		{
+			"index": 29,
+			"endNum": "NO_30",
+			"endintType": "STAR",
+			"endTitle": "NO_30",
+			"endImage": "NO_29",
+			"endFile": "ENDING_FILE_NO_30"
+		},
+		{
+			"index": 30,
+			"endNum": "NO_31",
+			"endintType": "STAR",
+			"endTitle": "NO_31",
+			"endImage": "NO_30",
+			"endFile": "ENDING_FILE_NO_31"
+		},
+		{
+			"index": 31,
+			"endNum": "NO_32",
+			"endintType": "STAR",
+			"endTitle": "NO_32",
+			"endImage": "NO_31",
+			"endFile": "ENDING_FILE_NO_32"
+		},
+		{
+			"index": 32,
+			"endNum": "NO_33",
+			"endintType": "STAR",
+			"endTitle": "NO_33",
+			"endImage": "NO_32",
+			"endFile": "ENDING_FILE_NO_33"
+		}
+	]
+}

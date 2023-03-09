@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ArrayOfDialogTable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<xmlSudenEvent>
+		<index>0</index>
+		<event_title>장르 선택</event_title>
+		<bgm>브금</bgm>
+		<sfx>효과음</sfx>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>이름</name>
+		<message>대사</message>
+		<choice_0>선택지_1</choice_0>
+		<choice_1>선택지_2</choice_1>
+		<choice_2>선택지_3</choice_2>
+		<stateKey_0>선택지 키값_0</stateKey_0>
+		<stateValue_0>선택지 가감치_0</stateValue_0>
+		<stateKey_1>선택지 키값_1</stateKey_1>
+		<stateValue_1>선택지 가감치_1</stateValue_1>
+		<stateKey_2>선택지 키값_2</stateKey_2>
+		<stateValue_2>선택지 가감치_2</stateValue_2>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>1</index>
+		<type>1000</type>
+		<tag>0</tag>
+		<name>밈</name>
+		<ch_img>MiM</ch_img>
+		<message>연기 공부를 해야할 것 같은데..
+어떤 장르가 좋을까?</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>2</index>
+		<type>1001</type>
+		<tag>0</tag>
+		<ch_img>MiM</ch_img>
+		<choice_0>짜릿한 상황의 연속! 
+역시 막장 드라마지!</choice_0>
+		<choice_1>초호화 캐스팅!
+로맨틱 코미디가 좋겠어.</choice_1>
+		<choice_2>치열한 공방과 정의 구현!
+법정 드라마가 좋겠다.</choice_2>
+		<stateKey_0>eACTING</stateKey_0>
+		<stateValue_0>2</stateValue_0>
+		<stateKey_1>eFACE</stateKey_1>
+		<stateValue_1>2</stateValue_1>
+		<stateKey_2>eKNOW</stateKey_2>
+		<stateValue_2>2</stateValue_2>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>3</index>
+		<type>1004</type>
+		<tag>1</tag>
+		<message>막장 드라마일수록 배우들의 연기가 
+더욱 빛나는 법! 배우들의 표정과 몸짓
+하나하나까지 집중해서 관찰한다.</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>4</index>
+		<type>1000</type>
+		<tag>1</tag>
+		<name>밈</name>
+		<ch_img>MiM</ch_img>
+		<message>어떻게 저런 표독스러운 표정을
+지을 수 있지?
+나도 연습해봐야겠다.</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>5</index>
+		<type>1002</type>
+		<tag>1</tag>
+		<message>CHOICE END</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>6</index>
+		<type>1004</type>
+		<tag>2</tag>
+		<message>선남선녀의 러브스토리!
+드라마 속에서 매력을
+어필하는 방법을 배웠다.</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>7</index>
+		<type>1000</type>
+		<tag>2</tag>
+		<name>밈</name>
+		<ch_img>MiM</ch_img>
+		<message>이 각도에서 찍으면 얼굴이 더 갸름해 보이네.
+좋은 걸 배웠다!</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>8</index>
+		<type>1002</type>
+		<tag>2</tag>
+		<message>CHOICE END</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>9</index>
+		<type>1004</type>
+		<tag>3</tag>
+		<message>어려운 용어들의 향연 속에서 밈은 책장에
+있는 국어사전을 펼쳤다.</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>10</index>
+		<type>1000</type>
+		<tag>3</tag>
+		<name>밈</name>
+		<ch_img>MiM</ch_img>
+		<message>원고..? 피고..? 결심..? 
+이게 다 무슨 말이람..</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>11</index>
+		<type>1002</type>
+		<tag>3</tag>
+		<message>CHOICE END</message>
+	</xmlSudenEvent>
+	<xmlSudenEvent>
+		<index>12</index>
+		<type>1003</type>
+		<tag>0</tag>
+		<message>EVENT_END</message>
+	</xmlSudenEvent>
+</ArrayOfDialogTable>
